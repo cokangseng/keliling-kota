@@ -1,0 +1,3219 @@
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html class="js audio audio-ogg audio-mp3 audio-opus audio-wav audio-m4a cors cssanimations backgroundblendmode flexbox inputtypes-search inputtypes-tel inputtypes-url inputtypes-email no-inputtypes-datetime inputtypes-date inputtypes-month inputtypes-week inputtypes-time inputtypes-datetime-local inputtypes-number inputtypes-range inputtypes-color localstorage placeholder svg xhr2" lang="id">
+    <head>
+    
+    <meta charset="utf-8">
+    <meta content="origin-when-cross-origin" name="referrer">
+    <link rel="dns-prefetch" href="//s3.envato.com">
+    <link rel="preload" href="https://market-resized.envatousercontent.com/themeforest.net/files/344043819/MARKETICA_PREVIEW/00-marketica-preview-sale37.__large_preview.jpg?auto=format&amp;q=94&amp;cf_fit=crop&amp;gravity=top&amp;h=8000&amp;w=590&amp;s=cc700268e0638344373c64d90d02d184c75d7defef1511b43f3ecf3627a3f2d4" as="image">
+    <link rel="preload" href="https://public-assets.envato-static.com/assets/generated_sprites/logos-20f56d7ae7a08da2c6698db678490c591ce302aedb1fcd05d3ad1e1484d3caf9.png" as="image">
+    <link rel="preload" href="https://public-assets.envato-static.com/assets/generated_sprites/common-5af54247f3a645893af51456ee4c483f6530608e9c15ca4a8ac5a6e994d9a340.png" as="image">
+    <title>LANDAKTOTO | SMJ Daftar Website Situs Toto Macau & Situs Toto Togel Online 2026 Terpercaya</title>
+    <meta name="description" content="LANDAKTOTO hadir sebagai SMJ daftar website situs Toto Macau & situs toto togel online 2026 dengan akses cepat, sistem modern, layanan profesional 24 jam, serta pengalaman bermain yang aman, nyaman, dan mudah diakses.">
+  <link rel="alternate" href="https://keliling-kota.pages.dev/website/amp"> 
+  <link rel="alternate" href="https://keliling-kota.pages.dev/website/amp" hreflang="id">
+  <link rel="alternate" href="https://keliling-kota.pages.dev/website/amp" hreflang="en">
+  <link rel="alternate" href="https://keliling-kota.pages.dev/website/amp" hreflang="en">
+  <link rel="alternate" href="https://keliling-kota.pages.dev/website/amp" hreflang="x-default">
+  <link rel="alternate" hreflang="id-ID" href="https://keliling-kota.pages.dev/website/amp" />
+  <link rel="alternate" hreflang="en-US" href="https://keliling-kota.pages.dev/website/amp" />
+  <link rel="alternate" hreflang="en-SG" href="https://keliling-kota.pages.dev/website/amp" />
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <link rel="icon" type="image/x-icon" href="https://keliling-kota.pages.dev/avatar-banner/webste.png">
+    <link rel="apple-touch-icon-precomposed" type="image/x-icon" href="https://keliling-kota.pages.dev/avatar-banner/webste.png" sizes="72x72">
+    <link rel="apple-touch-icon-precomposed" type="image/x-icon" href="https://keliling-kota.pages.dev/avatar-banner/webste.png" sizes="114x114">
+    <link rel="apple-touch-icon-precomposed" type="image/x-icon" href="https://keliling-kota.pages.dev/avatar-banner/webste.png" sizes="120x120">
+    <link rel="apple-touch-icon-precomposed" type="image/x-icon" href="https://keliling-kota.pages.dev/avatar-banner/webste.png" sizes="144x144">
+    <link rel="apple-touch-icon-precomposed" type="image/x-icon" href="https://keliling-kota.pages.dev/avatar-banner/webste.png">
+    <link rel="stylesheet" href="https://public-assets.envato-static.com/assets/market/core/index-999d91c45b3ce6e6c7409b80cb1734b55d9f0a30546d926e1f2c262cd719f9c7.css" media="all">
+    <link rel="stylesheet" href="https://public-assets.envato-static.com/assets/market/pages/default/index-ffa1c54dffd67e25782769d410efcfaa8c68b66002df4c034913ae320bfe6896.css" media="all">
+    <script src="https://public-assets.envato-static.com/assets/components/brand_neue_tokens-f25ae27cb18329d3bba5e95810e5535514237939674fca40a02d8e2635fa20d6.js" nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer="defer"></script>
+    <meta name="theme-color" content="#22321">
+    <link rel="canonical" href="https://smj.unsa.ac.id/">
+    <link rel="amphtml" href="https://keliling-kota.pages.dev/website/amp" />
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      /* 1. Definisi Halaman (WebPage) */
+      "@type": "WebPage",
+      "@id": "https://smj.unsa.ac.id/#webpage",
+      "url": "https://smj.unsa.ac.id/",
+      "name": "LANDAKTOTO | SMJ Daftar Website Situs Toto Macau & Situs Toto Togel Online 2026 Terpercaya",
+      "description": "LANDAKTOTO hadir sebagai SMJ daftar website situs Toto Macau & situs toto togel online 2026 dengan akses cepat, sistem modern, layanan profesional 24 jam, serta pengalaman bermain yang aman, nyaman, dan mudah diakses.",
+      "inLanguage": "id",
+      "primaryImageOfPage": {
+        "@type": "ImageObject",
+        "url": "https://keliling-kota.pages.dev/avatar-banner/webste.png" 
+      },
+      "about": {
+        "@id": "https://smj.unsa.ac.id/#organization"
+      }
+    },
+    {
+      /* 2. Definisi Brand (Organization) */
+      "@type": "Organization",
+      "@id": "https://smj.unsa.ac.id/#organization",
+      "name": "LANDAKTOTO",
+      "url": "https://smj.unsa.ac.id/",
+      "alternateName": "SITUS TERPERCAYA",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://keliling-kota.pages.dev/avatar-banner/webste.png"
+      },
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://smj.unsa.ac.id/?q={search_term_string}",
+        "query-input": "required name=search_term_string"
+      }
+    },
+    {
+      /* 3. Definisi Produk dan Ulasan Agregat */
+      "@type": "Product",
+      "@id": "https://smj.unsa.ac.id/#product",
+      "name": "TOTO MACAU",
+      "description": "LANDAKTOTO hadir sebagai SMJ daftar website situs Toto Macau & situs toto togel online 2026 dengan akses cepat, sistem modern, layanan profesional 24 jam, serta pengalaman bermain yang aman, nyaman, dan mudah diakses.",
+      "url": "https://smj.unsa.ac.id/",
+      "image": "https://keliling-kota.pages.dev/avatar-banner/webste.png",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.96",
+        "reviewCount": "890",
+        "bestRating": "5",
+        "worstRating": "1"
+      }
+    },
+    {
+      /* 4. Daftar Pertanyaan Sering Diajukan (FAQPage) */
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Mengapa banyak pengguna tertarik dengan beragam pasaran di LANDAKTOTO?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Karena setiap pasaran memiliki karakteristik yang berbeda sehingga pengguna dapat mengikuti pilihan yang paling sesuai dengan minat mereka."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Apa yang membuat akses pasaran di LANDAKTOTO terasa lebih praktis?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Informasi mengenai berbagai pasaran tersedia dalam satu tempat sehingga pengguna tidak perlu mencari dari banyak sumber yang berbeda."
+          }
+        }
+      ]
+    }
+  ]
+}
+</script>
+    <script nonce="TFNQUvYHwdi8uHoMheRs/Q==">//<![CDATA[
+window.dataLayer=window.dataLayer||[];
+//]]></script>
+    <meta name="bingbot" content="nocache">
+
+    <meta property="og:title" content="LANDAKTOTO | SMJ Daftar Website Situs Toto Macau & Situs Toto Togel Online 2026 Terpercaya">
+    <meta property="og:description" content="LANDAKTOTO hadir sebagai SMJ daftar website situs Toto Macau & situs toto togel online 2026 dengan akses cepat, sistem modern, layanan profesional 24 jam, serta pengalaman bermain yang aman, nyaman, dan mudah diakses.">
+    <meta property="og:url" content="https://keliling-kota.pages.dev/avatar-banner/webste.png">
+    <meta property="og:image" content="https://keliling-kota.pages.dev/avatar-banner/webste.png">
+    <meta property="og:image:alt" content="LANDAKTOTO | SMJ Daftar Website Situs Toto Macau & Situs Toto Togel Online 2026 Terpercaya">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="LANDAKTOTO">
+    <meta property="og:locale" content="id_ID">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="LANDAKTOTO | SMJ Daftar Website Situs Toto Macau & Situs Toto Togel Online 2026 Terpercaya">
+    <meta name="twitter:description" content="LANDAKTOTO hadir sebagai SMJ daftar website situs Toto Macau & situs toto togel online 2026 dengan akses cepat, sistem modern, layanan profesional 24 jam, serta pengalaman bermain yang aman, nyaman, dan mudah diakses.">
+    <meta name="twitter:image" content="https://keliling-kota.pages.dev/avatar-banner/webste.png">
+    <meta name="twitter:image:alt" content="LANDAKTOTO | SMJ Daftar Website Situs Toto Macau & Situs Toto Togel Online 2026 Terpercaya">
+    <meta name="twitter:site" content="@LANDAKTOTO">
+    <meta name="twitter:creator" content="@LANDAKTOTO">
+    <meta name="csrf-param" content="authenticity_token">
+    <meta name="csrf-token" content="o7V7LGbBjnF9HgzqsCOek0VUbYNaqFcrL72zjeu3cGTv2_7pn5UklFm7XFtDaDCfkbbeD4zdIzwPzjrUhXtbHQ">
+    <meta name="turbo-visit-control" content="reload">
+    <script type="text/javascript" nonce="TFNQUvYHwdi8uHoMheRs/Q==" data-cookieconsent="statistics">//<![CDATA[
+var container_env_param="";(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl+container_env_param;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-W8KL5Q5');
+//]]></script>
+
+
+    <script type="text/javascript" nonce="TFNQUvYHwdi8uHoMheRs/Q==" data-cookie consent="marketing">//<![CDATA[
+var gtmId='GTM-KGCDGPL6';var container_env_param="";(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl+container_env_param;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer',gtmId);window.addEventListener('load',function(){window.dataLayer.push({event:'pinterestReady'});});
+//]]></script>
+    <script src="https://public-assets.envato-static.com/assets/market/core/head-d4f3da877553664cb1d5ed45cb42c6ec7e6b00d0c4d164be8747cfd5002a24eb.js" nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
+    <style type="text/css" id="CookieConsentStateDisplayStyles">.cookieconsent-optin,.cookieconsent-optin-preferences,.cookieconsent-optin-statistics,.cookieconsent-optin-marketing{display:block;display:initial}.cookieconsent-optout-preferences,.cookieconsent-optout-statistics,.cookieconsent-optout-marketing,.cookieconsent-optout{display:none}</style>
+    <style>:root{--color-grey-1000:#fa8f37;--color-grey-1000-mask: #c56e0b;--color-grey-700:#cf5e02;--color-grey-500:#cf5e02;--color-grey-300:#c55f0b;--color-grey-100:#ccc;--color-grey-50:#ececee;--color-grey-25:#f9f9fb;--color-white:#fff;--color-white-mask: rgb(255 255 255 / 0.7);--color-green-1000:#ad5b25;--color-green-700:#743400;--color-green-500:#a3531d;--color-green-300:#c87532;--color-green-100:#ee9e69;--color-green-25:#eaffdc;--color-blue-1000:#6f167b;--color-blue-700:#d64fe8;--color-blue-500:#f475ff;--color-blue-25:#f0f1ff;--color-veryberry-1000:#017771;--color-veryberry-700:#00b9a9;--color-veryberry-500:#52f6f6;--color-veryberry-25:#ffecf2;--color-bubblegum-700:#37a8b0;--color-bubblegum-100:#afe2e6;--color-bubblegum-25:#feedfc;--color-jaffa-1000:#692400;--color-jaffa-700:#c24100;--color-jaffa-500:#ff6e28;--color-jaffa-25:#fff5ed;--color-yolk-1000:#452d0d;--color-yolk-700:#9e5f00;--color-yolk-500:#c28800;--color-yolk-300:#ffc800;--color-yolk-25:#fefaea;--color-transparent:transparent;--breakpoint-wide:1024px;--breakpoint-extra-wide:1440px;--breakpoint-2k-wide:2560px;--spacing-8x:128px;--spacing-7x:64px;--spacing-6x:40px;--spacing-5x:32px;--spacing-4x:24px;--spacing-3x:16px;--spacing-2x:8px;--spacing-1x:4px;--spacing-none:0;--chunkiness-none:0;--chunkiness-thin:1px;--chunkiness-thick:2px;--roundness-square:0;--roundness-subtle:4px;--roundness-extra-round:16px;--roundness-circle:48px;--shadow-500: 0px 2px 12px 0px rgba(0 0 0 / 15%);--elevation-medium:var(--shadow-500);--transition-base:.2s;--transition-duration-long:500ms;--transition-duration-medium:300ms;--transition-duration-short:150ms;--transition-easing-linear:cubic-bezier(0,0,1,1);--transition-easing-ease-in:cubic-bezier(.42,0,1,1);--transition-easing-ease-in-out:cubic-bezier(.42,0,.58,1);--transition-easing-ease-out:cubic-bezier(0,0,.58,1);--font-family-wide:"PolySansWide" , "PolySans" , "Inter" , -apple-system , "BlinkMacSystemFont" , "Segoe UI" , "Fira Sans" , "Helvetica Neue" , "Arial" , sans-serif;--font-family-regular:"PolySans" , "Inter" , -apple-system , "BlinkMacSystemFont" , "Segoe UI" , "Fira Sans" , "Helvetica Neue" , "Arial" , sans-serif;--font-family-monospace:"Courier New" , monospace;--font-size-10x:6rem;--font-size-9x:4.5rem;--font-size-8x:3rem;--font-size-7x:2.25rem;--font-size-6x:1.875rem;--font-size-5x:1.5rem;--font-size-4x:1.125rem;--font-size-3x:1rem;--font-size-2x:.875rem;--font-size-1x:.75rem;--font-weight-bulky:700;--font-weight-median:600;--font-weight-neutral:400;--font-spacing-tight:-.02em;--font-spacing-normal:0;--font-spacing-loose:.02em;--font-height-tight:1;--font-height-normal:1.5;--icon-size-5x:48px;--icon-size-4x:40px;--icon-size-3x:32px;--icon-size-2x:24px;--icon-size-1x:16px;--icon-size-text-responsive: calc(var(--font-size-3x) * 1.5);--layer-depth-ceiling:9999;--minimum-touch-area:40px;--button-height-large:48px;--button-height-medium:40px;--button-font-family:var(--font-family-regular);--button-font-size-large:var(--font-size-3x);--button-font-size-medium:var(--font-size-2x);--button-font-weight:var(--font-weight-median);--button-font-height:var(--font-height-normal);--button-font-spacing:var(--font-spacing-normal);--text-style-chip-family:var(--font-family-regular);--text-style-chip-spacing:var(--font-spacing-normal);--text-style-chip-xlarge-size:var(--font-size-5x);--text-style-chip-xlarge-weight:var(--font-weight-median);--text-style-chip-xlarge-height:var(--font-height-tight);--text-style-chip-large-size:var(--font-size-3x);--text-style-chip-large-weight:var(--font-weight-neutral);--text-style-chip-large-height:var(--font-height-normal);--text-style-chip-medium-size:var(--font-size-2x);--text-style-chip-medium-weight:var(--font-weight-neutral);--text-style-chip-medium-height:var(--font-height-normal);--text-style-campaign-large-family:var(--font-family-wide);--text-style-campaign-large-size:var(--font-size-9x);--text-style-campaign-large-spacing:var(--font-spacing-normal);--text-style-campaign-large-weight:var(--font-weight-bulky);--text-style-campaign-large-height:var(--font-height-tight);--text-style-campaign-small-family:var(--font-family-wide);--text-style-campaign-small-size:var(--font-size-7x);--text-style-campaign-small-spacing:var(--font-spacing-normal);--text-style-campaign-small-weight:var(--font-weight-bulky);--text-style-campaign-small-height:var(--font-height-tight);--text-style-title-1-family:var(--font-family-regular);--text-style-title-1-size:var(--font-size-8x);--text-style-title-1-spacing:var(--font-spacing-normal);--text-style-title-1-weight:var(--font-weight-bulky);--text-style-title-1-height:var(--font-height-tight);--text-style-title-2-family:var(--font-family-regular);--text-style-title-2-size:var(--font-size-7x);--text-style-title-2-spacing:var(--font-spacing-normal);--text-style-title-2-weight:var(--font-weight-median);--text-style-title-2-height:var(--font-height-tight);--text-style-title-3-family:var(--font-family-regular);--text-style-title-3-size:var(--font-size-6x);--text-style-title-3-spacing:var(--font-spacing-normal);--text-style-title-3-weight:var(--font-weight-median);--text-style-title-3-height:var(--font-height-tight);--text-style-title-4-family:var(--font-family-regular);--text-style-title-4-size:var(--font-size-5x);--text-style-title-4-spacing:var(--font-spacing-normal);--text-style-title-4-weight:var(--font-weight-median);--text-style-title-4-height:var(--font-height-tight);--text-style-subheading-family:var(--font-family-regular);--text-style-subheading-size:var(--font-size-4x);--text-style-subheading-spacing:var(--font-spacing-normal);--text-style-subheading-weight:var(--font-weight-median);--text-style-subheading-height:var(--font-height-normal);--text-style-body-large-family:var(--font-family-regular);--text-style-body-large-size:var(--font-size-3x);--text-style-body-large-spacing:var(--font-spacing-normal);--text-style-body-large-weight:var(--font-weight-neutral);--text-style-body-large-height:var(--font-height-normal);--text-style-body-large-strong-weight:var(--font-weight-bulky);--text-style-body-small-family:var(--font-family-regular);--text-style-body-small-size:var(--font-size-2x);--text-style-body-small-spacing:var(--font-spacing-normal);--text-style-body-small-weight:var(--font-weight-neutral);--text-style-body-small-height:var(--font-height-normal);--text-style-body-small-strong-weight:var(--font-weight-bulky);--text-style-label-large-family:var(--font-family-regular);--text-style-label-large-size:var(--font-size-3x);--text-style-label-large-spacing:var(--font-spacing-normal);--text-style-label-large-weight:var(--font-weight-median);--text-style-label-large-height:var(--font-height-normal);--text-style-label-small-family:var(--font-family-regular);--text-style-label-small-size:var(--font-size-2x);--text-style-label-small-spacing:var(--font-spacing-loose);--text-style-label-small-weight:var(--font-weight-median);--text-style-label-small-height:var(--font-height-normal);--text-style-micro-family:var(--font-family-regular);--text-style-micro-size:var(--font-size-1x);--text-style-micro-spacing:var(--font-spacing-loose);--text-style-micro-weight:var(--font-weight-neutral);--text-style-micro-height:var(--font-height-tight)}.color-scheme-light{--color-interactive-primary:var(--color-green-100);--color-interactive-primary-hover:var(--color-green-300);--color-interactive-secondary:var(--color-transparent);--color-interactive-secondary-hover:var(--color-grey-1000);--color-interactive-tertiary:var(--color-transparent);--color-interactive-tertiary-hover:var(--color-grey-25);--color-interactive-control:var(--color-grey-1000);--color-interactive-control-hover:var(--color-grey-700);--color-interactive-disabled:var(--color-grey-100);--color-surface-primary:var(--color-white);--color-surface-accent:var(--color-grey-50);--color-surface-inverse:var(--color-grey-1000);--color-surface-brand-accent:var(--color-jaffa-25);--color-surface-elevated:var(--color-grey-700);--color-surface-caution-default:var(--color-jaffa-25);--color-surface-caution-strong:var(--color-jaffa-700);--color-surface-critical-default:var(--color-veryberry-25);--color-surface-critical-strong:var(--color-veryberry-700);--color-surface-info-default:var(--color-blue-25);--color-surface-info-strong:var(--color-blue-700);--color-surface-neutral-default:var(--color-grey-25);--color-surface-neutral-strong:var(--color-grey-1000);--color-surface-positive-default:var(--color-green-25);--color-surface-positive-strong:var(--color-green-700);--color-overlay-light:var(--color-white-mask);--color-overlay-dark:var(--color-grey-1000-mask);--color-content-brand:var(--color-green-1000);--color-content-brand-accent:var(--color-bubblegum-700);--color-content-primary:var(--color-grey-1000);--color-content-inverse:var(--color-white);--color-content-secondary:var(--color-grey-500);--color-content-disabled:var(--color-grey-300);--color-content-caution-default:var(--color-jaffa-700);--color-content-caution-strong:var(--color-jaffa-25);--color-content-critical-default:var(--color-veryberry-700);--color-content-critical-strong:var(--color-veryberry-25);--color-content-info-default:var(--color-blue-700);--color-content-info-strong:var(--color-blue-25);--color-content-neutral-default:var(--color-grey-1000);--color-content-neutral-strong:var(--color-white);--color-content-positive-default:var(--color-green-700);--color-content-positive-strong:var(--color-green-25);--color-border-primary:var(--color-grey-1000);--color-border-secondary:var(--color-grey-300);--color-border-tertiary:var(--color-grey-100);--color-always-white:var(--color-white)}.color-scheme-dark{--color-interactive-primary:var(--color-green-100);--color-interactive-primary-hover:var(--color-green-300);--color-interactive-secondary:var(--color-transparent);--color-interactive-secondary-hover:var(--color-white);--color-interactive-tertiary:var(--color-transparent);--color-interactive-tertiary-hover:var(--color-grey-700);--color-interactive-control:var(--color-white);--color-interactive-control-hover:var(--color-grey-100);--color-interactive-disabled:var(--color-grey-700);--color-surface-primary:var(--color-grey-1000);--color-surface-accent:var(--color-grey-700);--color-surface-inverse:var(--color-white);--color-surface-brand-accent:var(--color-grey-700);--color-surface-elevated:var(--color-grey-700);--color-surface-caution-default:var(--color-jaffa-1000);--color-surface-caution-strong:var(--color-jaffa-500);--color-surface-critical-default:var(--color-veryberry-1000);--color-surface-critical-strong:var(--color-veryberry-500);--color-surface-info-default:var(--color-blue-1000);--color-surface-info-strong:var(--color-blue-500);--color-surface-neutral-default:var(--color-grey-700);--color-surface-neutral-strong:var(--color-white);--color-surface-positive-default:var(--color-green-1000);--color-surface-positive-strong:var(--color-green-500);--color-overlay-light:var(--color-white-mask);--color-overlay-dark:var(--color-grey-1000-mask);--color-content-brand:var(--color-green-1000);--color-content-brand-accent:var(--color-bubblegum-100);--color-content-primary:var(--color-white);--color-content-inverse:var(--color-grey-1000);--color-content-secondary:var(--color-grey-100);--color-content-disabled:var(--color-grey-500);--color-content-caution-default:var(--color-jaffa-500);--color-content-caution-strong:var(--color-jaffa-1000);--color-content-critical-default:var(--color-veryberry-500);--color-content-critical-strong:var(--color-veryberry-1000);--color-content-info-default:var(--color-blue-500);--color-content-info-strong:var(--color-blue-1000);--color-content-neutral-default:var(--color-white);--color-content-neutral-strong:var(--color-grey-1000);--color-content-positive-default:var(--color-green-500);--color-content-positive-strong:var(--color-green-1000);--color-border-primary:var(--color-white);--color-border-secondary:var(--color-grey-500);--color-border-tertiary:var(--color-grey-700);--color-always-white:var(--color-white)}</style>
+    <style>.brand-neue-button{gap:var(--spacing-2x);border-radius:var(--roundness-subtle);background:var(--color-interactive-primary);color:var(--color-content-brand);font-family:PolySans-Median;font-size:var(--font-size-2x);letter-spacing:.02em;text-align:center;padding:0 20px}.brand-neue-button:hover,.brand-neue-button:active,.brand-neue-button:focus{background:var(--color-interactive-primary-hover)}.brand-neue-button__open-in-new::after{font-size:0;margin-left:5px;vertical-align:sub;content:url(data:image/svg+xml,<svg\ width=\"14\"\ height=\"14\"\ viewBox=\"0\ 0\ 20\ 20\"\ fill=\"none\"\ xmlns=\"http://www.w3.org/2000/svg\"><g\ id=\"ico-/-24-/-actions-/-open_in_new\"><path\ id=\"Icon-color\"\ d=\"M17.5\ 12.0833V15.8333C17.5\ 16.7538\ 16.7538\ 17.5\ 15.8333\ 17.5H4.16667C3.24619\ 17.5\ 2.5\ 16.7538\ 2.5\ 15.8333V4.16667C2.5\ 3.24619\ 3.24619\ 2.5\ 4.16667\ 2.5H7.91667C8.14679\ 2.5\ 8.33333\ 2.68655\ 8.33333\ 2.91667V3.75C8.33333\ 3.98012\ 8.14679\ 4.16667\ 7.91667\ 4.16667H4.16667V15.8333H15.8333V12.0833C15.8333\ 11.8532\ 16.0199\ 11.6667\ 16.25\ 11.6667H17.0833C17.3135\ 11.6667\ 17.5\ 11.8532\ 17.5\ 12.0833ZM17.3167\ 2.91667L17.0917\ 2.69167C16.98\ 2.57535\ 16.8278\ 2.50668\ 16.6667\ 2.5H11.25C11.0199\ 2.5\ 10.8333\ 2.68655\ 10.8333\ 2.91667V3.75C10.8333\ 3.98012\ 11.0199\ 4.16667\ 11.25\ 4.16667H14.6583L7.625\ 11.2C7.54612\ 11.2782\ 7.50175\ 11.3847\ 7.50175\ 11.4958C7.50175\ 11.6069\ 7.54612\ 11.7134\ 7.625\ 11.7917L8.20833\ 12.375C8.28657\ 12.4539\ 8.39307\ 12.4982\ 8.50417\ 12.4982C8.61527\ 12.4982\ 8.72176\ 12.4539\ 8.8\ 12.375L15.8333\ 5.35V8.75C15.8333\ 8.98012\ 16.0199\ 9.16667\ 16.25\ 9.16667H17.0833C17.3135\ 9.16667\ 17.5\ 8.98012\ 17.5\ 8.75V3.33333C17.4955\ 3.17342\ 17.4299\ 3.02132\ 17.3167\ 2.90833V2.91667Z\"\ fill=\"%231A4200\"/></g></svg>)}</style>
+    <style type="text/css">.fancybox-margin{margin-right:15px}</style>
+    <meta http-equiv="origin-trial" content="A7JYkbIvWKmS8mWYjXO12SIIsfPdI7twY91Y3LWOV/YbZmN1ZhYv8O+Zs6/IPCfBE99aV9tIC8sWZSCN09vf7gkAAACWeyJvcmlnaW4iOiJodHRwczovL2N0LnBpbnRlcmVzdC5jb206NDQzIiwiZmVhdHVyZSI6IkRpc2FibGVUaGlyZFBhcnR5U3RvcmFnZVBhcnRpdGlvbmluZzIiLCJleHBpcnkiOjE3NDIzNDIzOTksImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9">
+<style>
+body 
+
+.site-header,.global-header,.context-header,.site-header__sites,.site-header__categories {
+  background-color:#fa8f37!important;
+  background-image:linear-gradient(315deg,#fa8f37 0%,#cf5e02 74%)!important;
+}
+
+.item-preview,.purchase-panel,.box--no-padding {
+  background-color:rgb(0, 0, 0)!important;
+  backdrop-filter:blur(12px)!important;
+  -webkit-backdrop-filter:blur(12px)!important;
+  border-radius:16px!important;
+  border:1px solid rgb(255, 255, 255)!important;
+  box-shadow:0 4px 30px rgb(143, 137, 137);
+  position:relative; /* biar pseudo-element bisa nempel */
+  overflow:hidden;
+}
+
+.item-preview,.purchase-panel {
+  padding:24px!important;
+  border:none!important;
+}
+
+.item-preview__actions {
+  background:transparent!important;
+}
+
+.purchase-panel h3,
+.purchase-panel .price,
+.purchase-panel p,
+.purchase-panel label,
+.purchase-panel a,
+.purchase-panel .meta-attributes__attr-name,
+.purchase-panel .meta-attributes__attr-detail {
+  color:#fff!important;
+  text-shadow:1px 1px 3px rgba(114, 106, 106, 0.5);
+}
+
+.purchase-panel a {
+  color:#95998e!important;
+}
+
+/* ✨ efek kilau */
+.item-preview::before,
+.purchase-panel::before {
+  content:"";
+  position:absolute;
+  top:0;
+  left:-150%;
+  width:50%;
+  height:100%;
+  background:linear-gradient(
+    120deg,
+    rgba(255,255,255,0) 0%,
+    rgba(255, 255, 255, 0.37) 50%,
+    rgba(255,255,255,0) 100%
+  );
+  transform:skewX(-20deg);
+  animation:shine 3s infinite;
+}
+
+@keyframes shine {
+  0%   { left:-150%; }
+  60%  { left:150%; }
+  100% { left:150%; }
+}
+.box--no-padding {
+    background-color: #fafafa;
+    color: #cf5e02;
+    margin-bottom: 20px;
+    border-radius: 4px;
+    border: 1px solid #e1e8ed;
+}
+h1, h2, h3, h4, h5, h6 {
+    padding: 10px 0px 20px 0px;
+    color: #fa8f37 ;
+    font-weight: inherit;
+}
+
+</style>
+
+</head>
+
+<body class="color-scheme-light" data-view="app impressionTracker" data-responsive="true" data-user-signed-in="false" __processed_046ac43c-cdf6-4311-9a75-3ea1775342f5__="true" bis_register="W3sibWFzdGVyIjp0cnVlLCJleHRlbnNpb25JZCI6ImVwcGlvY2VtaG1ubGJoanBsY2drb2ZjaWllZ29tY29uIiwiYWRibG9ja2VyU3RhdHVzIjp7IkRJU1BMQVkiOiJlbmFibGVkIiwiRkFDRUJPT0siOiJlbmFibGVkIiwiVFdJVFRFUiI6ImVuYWJsZWQiLCJSRURESVQiOiJlbmFibGVkIiwiUElOVEVSRVNUIjoiZW5hYmxlZCIsIklOU1RBR1JBTSI6ImVuYWJsZWQiLCJUSUtUT0siOiJkaXNhYmxlZCIsIkxJTktFRElOIjoiZW5hYmxlZCIsIkNPTkZJRyI6ImRpc2FibGVkIn0sInZlcnNpb24iOiIyLjAuMjYiLCJzY29yZSI6MjAwMjYwfV0=">
+    <script src="https://public-assets.envato-static.com/assets/gtm_measurements-40b0a0f82bafab0a0bb77fc35fe1da0650288300b85126c95b4676bcff6e4584.js" nonce="TFNQUvYHwdi8uHoMheRs/Q=="></script>
+    <noscript>
+        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W8KL5Q5" height="0" width="0" style="display:none;visibility:hidden">
+        </iframe>
+    </noscript>
+
+    <noscript>
+        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KGCDGPL6" height="0" width="0" style="display:none;visibility:hidden">
+        </iframe>
+    </noscript>
+    <script nonce="TFNQUvYHwdi8uHoMheRs/Q==">//<![CDATA[
+(function(){function normalizeAttributeValue(value){if(value===undefined||value===null)return undefined
+var normalizedValue
+if(Array.isArray(value)){normalizedValue=normalizedValue||value.map(normalizeAttributeValue).filter(Boolean).join(', ')}normalizedValue=normalizedValue||value.toString().toLowerCase().trim().replace(/&amp;/g,'&').replace(/&#39;/g,"'").replace(/\s+/g,' ')
+if(normalizedValue==='')return undefined
+return normalizedValue}var pageAttributes={app_name:normalizeAttributeValue('Marketplace'),app_env:normalizeAttributeValue('production'),app_version:normalizeAttributeValue('f7d8b3d494288b34cb00105ee5d230d68b0ccca7'),page_type:normalizeAttributeValue('item'),page_location:window.location.href,page_title:document.title,page_referrer:document.referrer,ga_param:normalizeAttributeValue(''),event_attributes:null,user_attributes:{user_id:normalizeAttributeValue(''),market_user_id:normalizeAttributeValue(''),}}
+dataLayer.push(pageAttributes)
+dataLayer.push({event:'analytics_ready',event_attributes:{event_type:'user',custom_timestamp:Date.now()}})})();
+//]]></script>
+    <style>.live-preview-btn--blue .live-preview{background-color:#909999}.live-preview-btn--blue .live-preview:hover,.live-preview-btn--blue .live-preview:focus{background-color:rgb(140, 148, 151)}</style>
+
+    <div class="page" bis_skin_checked="1">
+        <div class="page__off-canvas--left overflow" bis_skin_checked="1">
+            <div class="off-canvas-left js-off-canvas-left" bis_skin_checked="1">
+                <div class="off-canvas-left__top" bis_skin_checked="1">
+                    <a href="https://smj.unsa.ac.id/">Envato Market</a>
+                </div>
+                <div class="off-canvas-left__current-site -color-themeforest" bis_skin_checked="1">
+                    <span class="off-canvas-left__site-title">
+                        Web Themes &amp; Templates
+                    </span>
+                    <a class="off-canvas-left__current-site-toggle -white-arrow -color-themeforest" data-view="dropdown" data-dropdown-target=".off-canvas-left__sites" href="https://smj.unsa.ac.id/"></a>
+                </div>
+                <div class="sponsor-area" style="position:absolute; left:-9999px;">
+<a href="https://pictday.org/" rel="dofollow">https://pictday.org/</a><br>
+
+</div>
+
+                <div class="off-canvas-left__sites is-hidden" id="off-canvas-sites" bis_skin_checked="1">
+                    <a class="off-canvas-left__site" href="hhttps://smj.unsa.ac.id/">
+                        <span class="off-canvas-left__site-title">
+                            Code
+                        </span>
+                        <i class="e-icon -icon-right-open"></i>
+                    </a> <a class="off-canvas-left__site" href="https://smj.unsa.ac.id/">
+                        <span class="off-canvas-left__site-title">
+                            Video
+                        </span>
+                        <i class="e-icon -icon-right-open"></i>
+                    </a> <a class="off-canvas-left__site" href="https://smj.unsa.ac.id/">
+                        <span class="off-canvas-left__site-title">
+                            Audio
+                        </span>
+                        <i class="e-icon -icon-right-open"></i>
+                    </a> <a class="off-canvas-left__site" href="https://smj.unsa.ac.id/">
+                        <span class="off-canvas-left__site-title">
+                            Graphics
+                        </span>
+                        <i class="e-icon -icon-right-open"></i>
+                    </a> <a class="off-canvas-left__site" href="https://smj.unsa.ac.id/">
+                        <span class="off-canvas-left__site-title">
+                            Photos
+                        </span>
+                        <i class="e-icon -icon-right-open"></i>
+                    </a> <a class="off-canvas-left__site" href="https://smj.unsa.ac.id/">
+                        <span class="off-canvas-left__site-title">
+                            3D Files
+                        </span>
+                        <i class="e-icon -icon-right-open"></i>
+                    </a>
+                </div>
+                <div class="off-canvas-left__search" bis_skin_checked="1">
+                    <form id="search" action="https://smj.unsa.ac.id/" accept-charset="UTF-8" method="get">
+                        <div class="search-field -border-none" bis_skin_checked="1">
+                            <div class="search-field__input" bis_skin_checked="1">
+                                <input id="term" name="term" type="search" placeholder="Search" class="search-field__input-field">
+                            </div>
+                            <button class="search-field__button" type="submit">
+                                <i class="e-icon -icon-search"><span class="e-icon__alt">Search</span></i>
+                            </button>
+                        </div>
+                    </form>
+                </div>
+                <ul>
+                    <li>
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-all-items" href="https://smj.unsa.ac.id/">
+                            All Items
+                        </a>
+                        <ul class="is-hidden" id="off-canvas-all-items">
+                            <li>
+                                <a class="off-canvas-category-link--sub" href="https://smj.unsa.ac.id/">Popular Files</a>
+                            </li>
+                            <li>
+                                <a class="off-canvas-category-link--sub" href="https://smj.unsa.ac.id/">Featured Files</a>
+                            </li>
+                            <li>
+                                <a class="off-canvas-category-link--sub" href="https://smj.unsa.ac.id/">Top New Files</a>
+                            </li>
+                            <li>
+                                <a class="off-canvas-category-link--sub" href="https://smj.unsa.ac.id/">Follow Feed</a>
+                            </li>
+                            <li>
+                                <a class="off-canvas-category-link--sub" href="https://smj.unsa.ac.id/">Top Authors</a>
+                            </li>
+                            <li>
+                                <a class="off-canvas-category-link--sub" href="https://smj.unsa.ac.id/">Top New
+                                    Authors</a>
+                            </li>
+                            <li>
+                                <a class="off-canvas-category-link--sub" href="https://smj.unsa.ac.id/">Public Collections</a>
+                            </li>
+                            <li>
+                                <a class="off-canvas-category-link--sub" href="https://smj.unsa.ac.id/">View All Categories</a>
+                            </li>
+                        </ul>
+
+                    </li>
+                    <li>
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-wordpress" href="https://smj.unsa.ac.id/">
+                            WordPress
+                        </a>
+                        <ul class="is-hidden" id="off-canvas-wordpress">
+                            <li>
+                                <a class="off-canvas-category-link--sub" href="https://smj.unsa.ac.id/">Show all
+                                    WordPress</a>
+                            </li>
+                            <li>
+                                <a class="off-canvas-category-link--sub" href="https://smj.unsa.ac.id/">Popular Items</a>
+                            </li>
+                            <li>
+                                <a class="off-canvas-category-link--sub" href="https://smj.unsa.ac.id/">Blog /
+                                    Magazine</a>
+                            </li>
+                            <li>
+                                <a class="off-canvas-category-link--sub" href="https://smj.unsa.ac.id/">BuddyPress</a>
+                            </li>
+                            <li>
+                                <a class="off-canvas-category-link--sub" href="https://smj.unsa.ac.id/">Corporate</a>
+                            </li>
+                            <li>
+                                <a class="off-canvas-category-link--sub" href="https://smj.unsa.ac.id/">Creative</a>
+                            </li>
+                            <li>
+                                <a class="off-canvas-category-link--sub" href="https://smj.unsa.ac.id/">Directory &amp; Listings</a>
+                            </li>
+                            <li>
+                                <a class="off-canvas-category-link--sub" href="https://smj.unsa.ac.id/">eCommerce</a>
+                            </li>
+                            <li>
+                                <a class="off-canvas-category-link--sub" href="https://smj.unsa.ac.id/">Education</a>
+                            </li>
+                            <li>
+                                <a class="off-canvas-category-link--sub" href="https://smj.unsa.ac.id/">Elementor</a>
+                            </li>
+                            <li>
+                                <a class="off-canvas-category-link--sub" href="https://smj.unsa.ac.id/">Entertainment</a>
+                            </li>
+                            <li>
+                                <a class="off-canvas-category-link--sub" href="https://smj.unsa.ac.id/">Mobile</a>
+                            </li>
+                            <li>
+                                <a class="off-canvas-category-link--sub" href="https://smj.unsa.ac.id/">Nonprofit</a>
+                            </li>
+                            <li>
+                                <a class="off-canvas-category-link--sub" href="https://smj.unsa.ac.id/">Real
+                                    Estate</a>
+                            </li>
+                            <li>
+                                <a class="off-canvas-category-link--sub" href="https://smj.unsa.ac.id/">Retail</a>
+                            </li>
+                            <li>
+                                <a class="off-canvas-category-link--sub" href="https://smj.unsa.ac.id/">Technology</a>
+                            </li>
+                            <li>
+                                <a class="off-canvas-category-link--sub" href="https://smj.unsa.ac.id/">Wedding</a>
+                            </li>
+                            <li>
+                                <a class="off-canvas-category-link--sub" href="https://smj.unsa.ac.id/">Miscellaneous</a>
+                            </li>
+                            <li>
+                                <a class="off-canvas-category-link--sub" href="https://smj.unsa.ac.id/">WordPress Plugins</a>
+                            </li>
+                        </ul>
+
+                    </li>
+                    <li>
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-elementor" href="https://smj.unsa.ac.id/">
+                            Elementor
+                        </a>
+                        <ul class="is-hidden" id="off-canvas-elementor">
+                            <li>
+                                <a class="off-canvas-category-link--sub" href="https://smj.unsa.ac.id/">Template Kits</a>
+                            </li>
+                            <li>
+                                <a class="off-canvas-category-link--sub" href="https://smj.unsa.ac.id/">Plugins</a>
+                            </li>
+                            <li>
+                                <a class="off-canvas-category-link--sub" href="https://smj.unsa.ac.id/">Themes</a>
+                            </li>
+                        </ul>
+
+                    </li>
+                    <li>
+
+                        <a class="off-canvas-category-link--empty" href="https://smj.unsa.ac.id/">
+                            Hosting
+                        </a>
+                    </li>
+                    <li>
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-html" href="https://smj.unsa.ac.id/">
+                            HTML
+                        </a>
+                        <ul class="is-hidden" id="off-canvas-html">
+                            <li>
+                                <a class="off-canvas-category-link--sub" href="https://smj.unsa.ac.id/">Show all
+                                    HTML</a>
+                            </li>
+                            <li>
+                                <a class="off-canvas-category-link--sub" href="https://smj.unsa.ac.id/">Popular Items</a>
+                            </li>
+                            <li>
+                                <a class="off-canvas-category-link--sub" href="https://smj.unsa.ac.id/">Admin Templates</a>
+                            </li>
+                            <li>
+                                <a class="off-canvas-category-link--sub" href="https://smj.unsa.ac.id/">Corporate</a>
+                            </li>
+                            <li>
+                                <a class="off-canvas-category-link--sub" href="https://smj.unsa.ac.id/">Creative</a>
+                            </li>
+                            <li>
+                                <a class="off-canvas-category-link--sub" href="https://smj.unsa.ac.id/">Entertainment</a>
+                            </li>
+                            <li>
+                                <a class="off-canvas-category-link--sub" href="https://smj.unsa.ac.id/">Mobile</a>
+                            </li>
+                            <li>
+                                <a class="off-canvas-category-link--sub" href="https://smj.unsa.ac.id/">Nonprofit</a>
+                            </li>
+                            <li>
+                                <a class="off-canvas-category-link--sub" href="https://smj.unsa.ac.id/">Personal</a>
+                            </li>
+                            <li>
+                                <a class="off-canvas-category-link--sub" href="https://smj.unsa.ac.id/">Retail</a>
+                            </li>
+                            <li>
+                                <a class="off-canvas-category-link--sub" href="https://smj.unsa.ac.id/">Specialty Pages</a>
+                            </li>
+                            <li>
+                                <a class="off-canvas-category-link--sub" href="https://smj.unsa.ac.id/">Technology</a>
+                            </li>
+                            <li>
+                                <a class="off-canvas-category-link--sub" href="https://smj.unsa.ac.id/">Wedding</a>
+                            </li>
+                            <li>
+                                <a class="off-canvas-category-link--sub" href="https://smj.unsa.ac.id/">Miscellaneous</a>
+                            </li>
+                        </ul>
+
+                    </li>
+                    <li>
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-shopify" href="https://smj.unsa.ac.id/">
+                            Shopify
+                        </a>
+                        <ul class="is-hidden" id="off-canvas-shopify">
+                            <li>
+                                <a class="off-canvas-category-link--sub" href="https://smj.unsa.ac.id/">Show all
+                                    Shopify</a>
+                            </li>
+                            <li>
+                                <a class="off-canvas-category-link--sub" href="https://smj.unsa.ac.id/">Popular Items</a>
+                            </li>
+                            <li>
+                                <a class="off-canvas-category-link--sub" href="https://smj.unsa.ac.id/">Fashion</a>
+                            </li>
+                            <li>
+                                <a class="off-canvas-category-link--sub" href="https://smj.unsa.ac.id/">Shopping</a>
+                            </li>
+                            <li>
+                                <a class="off-canvas-category-link--sub" href="https://smj.unsa.ac.id/">Health &amp; Beauty</a>
+                            </li>
+                            <li>
+                                <a class="off-canvas-category-link--sub" href="https://smj.unsa.ac.id/">Technology</a>
+                            </li>
+                            <li>
+                                <a class="off-canvas-category-link--sub" href="https://smj.unsa.ac.id/">Entertainment</a>
+                            </li>
+                            <li>
+                                <a class="off-canvas-category-link--sub" href="https://smj.unsa.ac.id/">Miscellaneous</a>
+                            </li>
+                        </ul>
+
+                    </li>
+                    <li>
+
+                        <a class="off-canvas-category-link--empty" href="https://smj.unsa.ac.id/">
+                            Jamstack
+                        </a>
+                    </li>
+                    <li>
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-marketing" href="https://smj.unsa.ac.id/">
+                            Marketing
+                        </a>
+                        <ul class="is-hidden" id="off-canvas-marketing">
+                            <li>
+                                <a class="off-canvas-category-link--sub" href="https://smj.unsa.ac.id/">Show all
+                                    Marketing</a>
+                            </li>
+                            <li>
+                                <a class="off-canvas-category-link--sub" href="https://smj.unsa.ac.id/">Popular Items</a>
+                            </li>
+                            <li>
+                                <a class="off-canvas-category-link--sub" href="https://smj.unsa.ac.id/">Email Templates</a>
+                            </li>
+                            <li>
+                                <a class="off-canvas-category-link--sub" href="https://smj.unsa.ac.id/">Landing Pages</a>
+                            </li>
+                            <li>
+                                <a class="off-canvas-category-link--sub" href="https://smj.unsa.ac.id/">Unbounce Landing Pages</a>
+                            </li>
+                        </ul>
+
+                    </li>
+                    <li>
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-cms" href="https://smj.unsa.ac.id/">
+                            CMS
+                        </a>
+                        <ul class="is-hidden" id="off-canvas-cms">
+                            <li>
+                                <a class="off-canvas-category-link--sub" href="https://smj.unsa.ac.id/">Show all CMS</a>
+                            </li>
+                            <li>
+                                <a class="off-canvas-category-link--sub" href="https://smj.unsa.ac.id/">Popular Items</a>
+                            </li>
+                            <li>
+                                <a class="off-canvas-category-link--sub" href="https://smj.unsa.ac.id/">Concrete5</a>
+                            </li>
+                            <li>
+                                <a class="off-canvas-category-link--sub" href="https://smj.unsa.ac.id/">Drupal</a>
+                            </li>
+                            <li>
+                                <a class="off-canvas-category-link--sub" href="https://smj.unsa.ac.id/">HubSpot CMS Hub</a>
+                            </li>
+                            <li>
+                                <a class="off-canvas-category-link--sub" href="https://smj.unsa.ac.id/">Joomla</a>
+                            </li>
+                            <li>
+                                <a class="off-canvas-category-link--sub" href="https://smj.unsa.ac.id/">MODX
+                                    Themes</a>
+                            </li>
+                            <li>
+                                <a class="off-canvas-category-link--sub" href="https://smj.unsa.ac.id/">Moodle</a>
+                            </li>
+                            <li>
+                                <a class="off-canvas-category-link--sub" href="https://smj.unsa.ac.id/">Webflow</a>
+                            </li>
+                            <li>
+                                <a class="off-canvas-category-link--sub" href="https://smj.unsa.ac.id/">Weebly</a>
+                            </li>
+                            <li>
+                                <a class="off-canvas-category-link--sub" href="https://smj.unsa.ac.id/">Miscellaneous</a>
+                            </li>
+                        </ul>
+
+                    </li>
+                    <li>
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-ecommerce" href="https://smj.unsa.ac.id/">
+                            eCommerce
+                        </a>
+                        <ul class="is-hidden" id="off-canvas-ecommerce">
+                            <li>
+                                <a class="off-canvas-category-link--sub" href="https://smj.unsa.ac.id/">Show all
+                                    eCommerce</a>
+                            </li>
+                            <li>
+                                <a class="off-canvas-category-link--sub" href="https://smj.unsa.ac.id/">Popular Items</a>
+                            </li>
+                            <li>
+                                <a class="off-canvas-category-link--sub" href="https://smj.unsa.ac.id/">WooCommerce</a>
+                            </li>
+                            <li>
+                                <a class="off-canvas-category-link--sub" href="https://smj.unsa.ac.id/">BigCommerce</a>
+                            </li>
+                            <li>
+                                <a class="off-canvas-category-link--sub" href="https://smj.unsa.ac.id/">Drupal Commerce</a>
+                            </li>
+                            <li>
+                                <a class="off-canvas-category-link--sub" href="https://smj.unsa.ac.id/">Easy Digital Downloads</a>
+                            </li>
+                            <li>
+                                <a class="off-canvas-category-link--sub" href="https://smj.unsa.ac.id/">Ecwid</a>
+                            </li>
+                            <li>
+                                <a class="off-canvas-category-link--sub" href="https://smj.unsa.ac.id/">Magento</a>
+                            </li>
+                            <li>
+                                <a class="off-canvas-category-link--sub" href="https://smj.unsa.ac.id/">OpenCart</a>
+                            </li>
+                            <li>
+                                <a class="off-canvas-category-link--sub" href="https://smj.unsa.ac.id/">PrestaShop</a>
+                            </li>
+                            <li>
+                                <a class="off-canvas-category-link--sub" href="https://smj.unsa.ac.id/">Shopify</a>
+                            </li>
+                            <li>
+                                <a class="off-canvas-category-link--sub" href="https://smj.unsa.ac.id/">Ubercart</a>
+                            </li>
+                            <li>
+                                <a class="off-canvas-category-link--sub" href="https://smj.unsa.ac.id/">VirtueMart</a>
+                            </li>
+                            <li>
+                                <a class="off-canvas-category-link--sub" href="https://smj.unsa.ac.id/">Zen
+                                    Cart</a>
+                            </li>
+                            <li>
+                                <a class="off-canvas-category-link--sub" href="https://smj.unsa.ac.id/">Miscellaneous</a>
+                            </li>
+                        </ul>
+
+                    </li>
+                    <li>
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-ui-templates" href="https://smj.unsa.ac.id/">
+                            UI Templates
+                        </a>
+                        <ul class="is-hidden" id="off-canvas-ui-templates">
+                            <li>
+                                <a class="off-canvas-category-link--sub" href="https://smj.unsa.ac.id/">Popular Items</a>
+                            </li>
+                            <li>
+                                <a class="off-canvas-category-link--sub" href="https://smj.unsa.ac.id/">Figma</a>
+                            </li>
+                            <li>
+                                <a class="off-canvas-category-link--sub" href="https://smj.unsa.ac.id/">Adobe
+                                    XD</a>
+                            </li>
+                            <li>
+                                <a class="off-canvas-category-link--sub" href="https://smj.unsa.ac.id/">Photoshop</a>
+                            </li>
+                            <li>
+                                <a class="off-canvas-category-link--sub" href="https://smj.unsa.ac.id/">Sketch</a>
+                            </li>
+                        </ul>
+
+                    </li>
+                    <li>
+
+                        <a class="off-canvas-category-link--empty" href="https://smj.unsa.ac.id/">
+                            Plugins
+                        </a>
+                    </li>
+                    <li>
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-more" href="https://smj.unsa.ac.id/">
+                            More
+                        </a>
+                        <ul class="is-hidden" id="off-canvas-more">
+                            <li>
+                                <a class="off-canvas-category-link--sub" href="https://smj.unsa.ac.id/">Blogging</a>
+                            </li>
+                            <li>
+                                <a class="off-canvas-category-link--sub" href="https://smj.unsa.ac.id/">Courses</a>
+                            </li>
+                            <li>
+                                <a class="off-canvas-category-link--sub" href="https://smj.unsa.ac.id/">Facebook Templates</a>
+                            </li>
+                            <li>
+                                <a class="off-canvas-category-link--sub" href="https://smj.unsa.ac.id/">Free Elementor Templates</a>
+                            </li>
+                            <li>
+                                <a class="off-canvas-category-link--sub" href="https://smj.unsa.ac.id/">Free
+                                    WordPress Themes</a>
+                            </li>
+                            <li>
+                                <a class="off-canvas-category-link--sub" href="https://smj.unsa.ac.id/">Forums</a>
+                            </li>
+                            <li>
+                                <a class="off-canvas-category-link--sub" href="https://smj.unsa.ac.id/">Ghost
+                                    Themes</a>
+                            </li>
+                            <li>
+                                <a class="off-canvas-category-link--sub" href="https://smj.unsa.ac.id/">Tumblr</a>
+                            </li>
+                            <li>
+                                <a class="off-canvas-category-link--sub external-link elements-nav__category-link" target="_blank" data-analytics-view-payload="{&quot;eventName&quot;:&quot;view_promotion&quot;,&quot;contextDetail&quot;:&quot;sub nav&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionName&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}" data-analytics-click-payload="{&quot;eventName&quot;:&quot;select_promotion&quot;,&quot;contextDetail&quot;:&quot;sub nav&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionName&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}" href="https://smj.unsa.ac.id/">Unlimited
+                                    Creative Assets</a>
+                            </li>
+                        </ul>
+
+                    </li>
+
+                    <li>
+                        <a class="elements-nav__category-link external-link" target="_blank" data-analytics-view-payload="{&quot;eventName&quot;:&quot;view_promotion&quot;,&quot;contextDetail&quot;:&quot;site switcher&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionName&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}" data-analytics-click-payload="{&quot;eventName&quot;:&quot;select_promotion&quot;,&quot;contextDetail&quot;:&quot;site switcher&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionName&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}" href="https://smj.unsa.ac.id/">Unlimited 
+                            ABOUTS</a>
+                    </li>
+
+                </ul>
+
+            </div>
+
+        </div>
+
+        <div class="page__off-canvas--right overflow" bis_skin_checked="1">
+            <div class="off-canvas-right" bis_skin_checked="1">
+                <a class="off-canvas-right__link--cart" href="https://smj.unsa.ac.id/">
+                    Guest Cart
+                    <div class="shopping-cart-summary is-empty" data-view="cartCount" bis_skin_checked="1">
+                        <span class="js-cart-summary-count shopping-cart-summary__count">0</span>
+                        <i class="e-icon -icon-cart"></i>
+                    </div>
+                </a>
+                <a class="off-canvas-right__link" href="https://smj.unsa.ac.id/">
+                    Create an Envato Account
+                    <i class="e-icon -icon-envato"></i>
+                </a>
+                <a class="off-canvas-right__link" href="https://smj.unsa.ac.id/">
+                    Sign In
+                    <i class="e-icon -icon-login"></i>
+                </a>
+            </div>
+
+        </div>
+
+        <div class="page__canvas" bis_skin_checked="1">
+            <div class="canvas" bis_skin_checked="1">
+                <div class="canvas__header" bis_skin_checked="1">
+
+                    <header class="site-header">
+                        <div class="site-header__mini is-hidden-desktop" bis_skin_checked="1">
+                            <div class="header-mini" bis_skin_checked="1">
+                                <div class="header-mini__button--cart" bis_skin_checked="1">
+                                    <a class="btn btn--square" href="https://smj.unsa.ac.id/">
+                                        <svg width="14px" height="14px" viewBox="0 0 14 14" class="header-mini__button-cart-icon" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title" role="img">
+                                            <title>Cart</title>
+                                            <path d="M 0.009 1.349 C 0.009 1.753 0.347 2.086 0.765 2.086 C 0.765 2.086 0.766 2.086 0.767 2.086 L 0.767 2.09 L 2.289 2.09 L 5.029 7.698 L 4.001 9.507 C 3.88 9.714 3.812 9.958 3.812 10.217 C 3.812 11.028 4.496 11.694 5.335 11.694 L 14.469 11.694 L 14.469 11.694 C 14.886 11.693 15.227 11.36 15.227 10.957 C 15.227 10.552 14.886 10.221 14.469 10.219 L 14.469 10.217 L 5.653 10.217 C 5.547 10.217 5.463 10.135 5.463 10.031 L 5.487 9.943 L 6.171 8.738 L 11.842 8.738 C 12.415 8.738 12.917 8.436 13.175 7.978 L 15.901 3.183 C 15.96 3.08 15.991 2.954 15.991 2.828 C 15.991 2.422 15.65 2.09 187.66 2.09 L 3.972 2.09 L 3.481 1.077 L 3.466 1.043 C 3.343 0.79 3.084 0.612 2.778 0.612 C 2.967 0.612 0.765 0.612 0.765 0.612 C 0.347 0.612 0.009 0.943 0.009 1.349 Z M 3.819 13.911 C 3.819 14.724 4.496 15.389 5.335 15.389 C 6.171 15.389 6.857 14.724 6.857 13.911 C 6.857 13.097 6.171 12.434 5.335 12.434 C 4.496 12.434 3.819 13.097 3.819 13.911 Z M 11.431 13.911 C 11.431 14.724 12.11 15.389 12.946 15.389 C 13.784 15.389 14.469 14.724 14.469 13.911 C 14.469 13.097 13.784 12.434 12.946 12.434 C 12.11 12.434 11.431 13.097 11.431 13.911 Z">
+                                            </path>
+
+                                        </svg>
+
+
+                                        <span class="is-hidden">Cart</span>
+                                        <span class="header-mini__button-cart-cart-amount is-hidden">
+                                            0
+                                        </span>
+                                    </a>
+                                </div>
+                                <div class="header-mini__button--account" bis_skin_checked="1">
+                                    <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="right" href="https://smj.unsa.ac.id/">
+                                        <i class="e-icon -icon-person"></i>
+                                        <span class="is-hidden">Account</span>
+                                    </a>
+                                </div>
+
+                                <div class="header-mini__button--categories" bis_skin_checked="1">
+                                    <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="left" href="https://smj.unsa.ac.id/">
+                                        <i class="e-icon -icon-hamburger"></i>
+                                        <span class="is-hidden">Sites, Search &amp; Categories</span>
+                                    </a>
+                                </div>
+
+                                <div class="header-mini__logo" bis_skin_checked="1">
+                                    <a href="https://smj.unsa.ac.id/">
+                                        <img alt="LANDAKTOTO" src="https://landaktoto.dataklmsad903.site/images/setting-logo/1/SqPt4TYy6QGzXvR3.webp" style="height:40px; width:auto; display:inline-block;">
+                                    </a>
+                                </div>
+
+
+
+                            </div>
+
+                        </div>
+
+                        <div class="global-header is-hidden-tablet-and-below" bis_skin_checked="1">
+
+                            <div class="grid-container -layout-wide" bis_skin_checked="1">
+                                <div class="global-header__wrapper" bis_skin_checked="1">
+                                    <a href="https://smj.unsa.ac.id/">
+                                        <img height="50" alt="LANDAKTOTO LOGO" class="global-header__logo" src="https://landaktoto.dataklmsad903.site/images/setting-logo/1/SqPt4TYy6QGzXvR3.webp">
+                                    </a>
+                                    <nav class="global-header-menu" role="navigation">
+                                        <ul class="global-header-menu__list">
+                                            <li class="global-header-menu__list-item">
+                                                <a class="global-header-menu__link" href="https://smj.unsa.ac.id/">
+                                                    <span class="global-header-menu__link-text">
+                                                        LANDAKTOTO
+                                                    </span>
+                                                </a>
+                                            </li>
+                                            <li class="global-header-menu__list-item">
+                                                <a class="global-header-menu__link" href="https://smj.unsa.ac.id/">
+                                                    <span class="global-header-menu__link-text">
+                                                        LANDAK TOTO
+                                                    </span>
+                                                </a>
+                                            </li>
+
+
+                                            <li data-view="globalHeaderMenuDropdownHandler" class="global-header-menu__list-item--with-dropdown">
+                                                <a data-lazy-load-trigger="mouseover" class="global-header-menu__link" href="https://smj.unsa.ac.id/">
+                                                    <svg width="16px" height="16px" viewBox="0 0 16 16" class="global-header-menu__icon" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title" role="img">
+                                                        <title>Menu</title>
+                                                        <path d="M3.5 2A1.5 1.5 0 0 1 5 3.5 1.5 1.5 0 0 1 3.5 5 1.5 1.5 0 0 1 2 3.5 1.5 1.5 0 0 1 3.5 2zM8 2a1.5 1.5 0 0 1 1.5 1.5A1.5 1.5 0 0 1 8 5a1.5 1.5 0 0 1-1.5-1.5A1.5 1.5 0 0 1 8 2zM12.5 2A1.5 1.5 0 0 1 14 3.5 1.5 1.5 0 0 1 12.5 5 1.5 1.5 0 0 1 11 3.5 1.5 1.5 0 0 1 12.5 2zM3.5 6.5A1.5 1.5 0 0 1 5 8a1.5 1.5 0 0 1-1.5 1.5A1.5 1.5 0 0 1 2 8a1.5 1.5 0 0 1 1.5-1.5zM8 6.5A1.5 1.5 0 0 1 9.5 8 1.5 1.5 0 0 1 8 9.5 1.5 1.5 0 0 1 6.5 8 1.5 1.5 0 0 1 8 6.5zM12.5 6.5A1.5 1.5 0 0 1 14 8a1.5 1.5 0 0 1-1.5 1.5A1.5 1.5 0 0 1 11 8a1.5 1.5 0 0 1 1.5-1.5zM3.5 11A1.5 1.5 0 0 1 5 12.5 1.5 1.5 0 0 1 3.5 14 1.5 1.5 0 0 1 2 12.5 1.5 1.5 0 0 1 3.5 11zM8 11a1.5 1.5 0 0 1 1.5 1.5A1.5 1.5 0 0 1 8 14a1.5 1.5 0 0 1-1.5-1.5A1.5 1.5 0 0 1 8 11zM12.5 11a1.5 1.5 0 0 1 1.5 1.5 1.5 1.5 0 0 1-1.5 1.5 1.5 1.5 0 0 1-1.5-1.5 1.5 1.5 0 0 1 1.5-1.5z">
+                                                        </path>
+
+                                                    </svg>
+
+                                                    <span class="global-header-menu__link-text">
+                                                        Our Products
+                                                    </span>
+                                                </a>
+                                            <li class="global-header-menu__list-item -background-light -border-radius">
+                                                <a id="spec-link-cart" class="global-header-menu__link h-pr1" href="https://smj.unsa.ac.id/">
+
+                                                    <svg width="16px" height="16px" viewBox="0 0 16 16" class="global-header-menu__icon global-header-menu__icon-cart" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title" role="img">
+                                                        <title>Cart</title>
+                                                        <path d="M 0.009 1.349 C 0.009 1.753 0.347 2.086 0.765 2.086 C 0.765 2.086 0.766 2.086 0.767 2.086 L 0.767 2.09 L 2.289 2.09 L 5.029 7.698 L 4.001 9.507 C 3.88 9.714 3.812 9.958 3.812 10.217 C 3.812 11.028 4.496 11.694 5.335 11.694 L 14.469 11.694 L 14.469 11.694 C 14.886 11.693 15.227 11.36 15.227 10.957 C 15.227 10.552 14.886 10.221 14.469 10.219 L 14.469 10.217 L 5.653 10.217 C 5.547 10.217 5.463 10.135 5.463 10.031 L 5.487 9.943 L 6.171 8.738 L 11.842 8.738 C 12.415 8.738 12.917 8.436 13.175 7.978 L 15.901 3.183 C 15.96 3.08 15.991 2.954 15.991 2.828 C 15.991 2.422 15.65 2.09 187.66 2.09 L 3.972 2.09 L 3.481 1.077 L 3.466 1.043 C 3.343 0.79 3.084 0.612 2.778 0.612 C 2.967 0.612 0.765 0.612 0.765 0.612 C 0.347 0.612 0.009 0.943 0.009 1.349 Z M 3.819 13.911 C 3.819 14.724 4.496 15.389 5.335 15.389 C 6.171 15.389 6.857 14.724 6.857 13.911 C 6.857 13.097 6.171 12.434 5.335 12.434 C 4.496 12.434 3.819 13.097 3.819 13.911 Z M 11.431 13.911 C 11.431 14.724 12.11 15.389 12.946 15.389 C 13.784 15.389 14.469 14.724 14.469 13.911 C 14.469 13.097 13.784 12.434 12.946 12.434 C 12.11 12.434 11.431 13.097 11.431 13.911 Z">
+                                                        </path>
+
+                                                    </svg>
+
+
+                                                    <span class="global-header-menu__link-cart-amount is-hidden" data-view="headerCartCount" data-test-id="header_cart_count">0</span>
+                                                </a>
+                                            </li>
+
+                                            <li class="global-header-menu__list-item -background-light -border-radius">
+                                                <a class="global-header-menu__link h-pl1" data-view="modalAjax" href="https://smj.unsa.ac.id/">
+                                                    <span id="spec-user-username" class="global-header-menu__link-text">
+                                                        Sign In
+                                                    </span>
+                                                </a>
+                                            </li>
+
+                                        </ul>
+                                    </nav>
+                                </div>
+                            </div>
+                        </div>
+
+
+                        <div class="site-header__sites is-hidden-tablet-and-below" bis_skin_checked="1">
+                            <div class="header-sites header-site-titles" bis_skin_checked="1">
+                                <div class="grid-container -layout-wide" bis_skin_checked="1">
+                                    <nav class="header-site-titles__container">
+                                        <div class="header-site-titles__site" bis_skin_checked="1">
+                                            <a class="header-site-titles__link t-link is-active" alt="Web Templates" href="https://smj.unsa.ac.id/">TOTO MACAU</a>
+                                        </div>
+                                        <div class="header-site-titles__site" bis_skin_checked="1">
+                                            <a class="header-site-titles__link t-link" alt="Code" href="https://smj.unsa.ac.id/">TOGEL</a>
+                                        </div>
+                                        <div class="header-site-titles__site" bis_skin_checked="1">
+                                            <a class="header-site-titles__link t-link" alt="Video" href="https://smj.unsa.ac.id/">SITUS TOGEL</a>
+                                        </div>
+                                        <div class="header-site-titles__site" bis_skin_checked="1">
+                                            <a class="header-site-titles__link t-link" alt="Music" href="https://smj.unsa.ac.id/">TOTO</a>
+                                        </div>
+                                        <div class="header-site-titles__site" bis_skin_checked="1">
+                                            <a class="header-site-titles__link t-link" alt="Graphics" href="https://smj.unsa.ac.id/">SITUS TOTO</a>
+                                        </div>
+                                        <div class="header-site-titles__site" bis_skin_checked="1">
+                                            <a class="header-site-titles__link t-link" alt="Photos" href="https://smj.unsa.ac.id/">LANDAKTOTO</a>
+                                        </div>
+                                        <div class="header-site-titles__site" bis_skin_checked="1">
+                                            <a class="header-site-titles__link t-link" alt="3D Files" href="https://smj.unsa.ac.id/">LANDAK TOTO</a>
+                                        </div>
+
+                                        <div class="header-site-titles__site elements-nav__container" bis_skin_checked="1">
+                                            <a class="header-site-titles__link t-link elements-nav__main-link" href="https://elements.envato.com/?utm_campaign=elements_mkt-switcher_31JUL2024&amp;utm_content=tf_item_9678002&amp;utm_medium=referral&amp;utm_source=themeforest.net" target="_blank">
+                                                <span>
+                                                    LANDAK TOTO
+                                                </span>
+                                            </a>
+
+                                            <a target="_blank" class="elements-nav__dropdown-container unique-selling-points__variant" data-analytics-view-payload="{&quot;eventName&quot;:&quot;view_promotion&quot;,&quot;contextDetail&quot;:&quot;site switcher&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;elements_mkt-switcher_31JUL2024&quot;,&quot;promotionName&quot;:&quot;elements_mkt-switcher_31JUL2024&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}" data-analytics-click-payload="{&quot;eventName&quot;:&quot;select_promotion&quot;,&quot;contextDetail&quot;:&quot;site switcher&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;elements_mkt-switcher_31JUL2024&quot;,&quot;promotionName&quot;:&quot;elements_mkt-switcher_31JUL2024&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}" href="https://elements.envato.com/?utm_campaign=elements_mkt-switcher_31JUL2024&amp;utm_content=tf_item_9678002&amp;utm_medium=referral&amp;utm_source=themeforest.net">
+                                                <div class="elements-nav__main-panel" bis_skin_checked="1">
+                                                    <img class="elements-nav__logo-container" loading="lazy" src="https://public-assets.envato-static.com/assets/header/EnvatoElements-logo-4f70ffb865370a5fb978e9a1fc5bbedeeecdfceb8d0ebec2186aef4bee5db79d.svg" alt="Elements logo" height="23" width="101">
+
+                                                    <div class="elements-nav__punch-line" bis_skin_checked="1">
+                                                        <h2>
+                                                            Looking for unlimited downloads?
+                                                        </h2>
+                                                        <p>
+                                                            Subscribe to Envato Elements.
+                                                        </p>
+                                                        <ul>
+                                                            <li>
+                                                                <img src="https://public-assets.envato-static.com/assets/header/badge-a65149663b95bcee411e80ccf4da9788f174155587980d8f1d9c44fd8b59edd8.svg" alt="badge" width="20" height="20">
+                                                                Millions of premium assets
+                                                            </li>
+                                                            <li>
+                                                                <img src="https://public-assets.envato-static.com/assets/header/thumbs_up-e5ce4c821cfd6a6aeba61127a8e8c4d2d7c566e654f588a22708c64d66680869.svg" alt="thumbs up" width="20" height="20">
+                                                                Great value subscription
+                                                            </li>
+                                                        </ul>
+                                                        <button class="brand-neue-button brand-neue-button__open-in-new elements-nav__cta">Let's
+                                                            create</button>
+                                                        <p></p>
+                                                    </div>
+                                                </div>
+                                                <div class="elements-nav__secondary-panel" bis_skin_checked="1">
+                                                    <img class="elements-nav__secondary-panel__collage" loading="lazy" src="https://public-assets.envato-static.com/assets/header/items-collage-1x-a39e4a5834e75c32a634cc7311720baa491687b1aaa4b709ebd1acf0f8427b53.png" srcset="https://public-assets.envato-static.com/assets/header/items-collage-2x-75e1ad16a46b9788861780a57feeb5fd1ad1026ecce9396702f0ef8f6f542697.png 2x" alt="Collage of Elements items" width="267" height="233">
+                                                </div>
+                                            </a>
+                                        </div>
+
+                                        <div class="header-site-floating-logo__container" bis_skin_checked="1">
+                                            <div class="" bis_skin_checked="1">
+                                                <img src="https://landaktoto.dataklmsad903.site/images/setting-logo/1/SqPt4TYy6QGzXvR3.webp" alt="LANDAKTOTO LOGO " style="max-width: 50px; height: auto; object-fit: contain;" data-spm-anchor-id="0.0.header.i0.27e27142EyRkBl">
+                                            </div>
+                                        </div>
+                                    </nav>
+                                </div>
+                            </div>
+
+                        </div>
+
+                        <div class="site-header__categories is-hidden-tablet-and-below" bis_skin_checked="1">
+                            <div class="header-categories" bis_skin_checked="1">
+                                <div class="grid-container -layout-wide" bis_skin_checked="1">
+                                    <ul class="header-categories__links">
+                                        <li class="header-categories__links-item">
+                                            <a class="header-categories__main-link" data-view="touchOnlyDropdown" data-dropdown-target=".js-categories-0-dropdown" href="https://smj.unsa.ac.id/">TOTO ONLINE</a>
+                                        </li>
+                                        <li class="header-categories__links-item">
+                                            <a class="header-categories__main-link" data-view="touchOnlyDropdown" data-dropdown-target=".js-categories-1-dropdown" href="https://smj.unsa.ac.id/">TOGEL ONLINE</a>
+                                        </li>
+                                        <li class="header-categories__links-item">
+                                            <a class="header-categories__main-link" data-view="touchOnlyDropdown" data-dropdown-target=".js-categories-2-dropdown" href="https://smj.unsa.ac.id/">LANDAKTOTO TOGEL</a>
+                                        </li>
+                                        <li class="header-categories__links-item">
+                                            <a class="header-categories__main-link header-categories__main-link--empty" href="https://smj.unsa.ac.id/">LANDAKTOTO LOGIN</a>
+                                        </li>
+                                        <li class="header-categories__links-item">
+                                            <a class="header-categories__main-link" data-view="touchOnlyDropdown" data-dropdown-target=".js-categories-4-dropdown" href="https://smj.unsa.ac.id/">LANDAKTOTO DAFTAR</a>
+                                            </a>
+                                        </li>
+                                        <li class="header-categories__links-item">
+                                            <a class="header-categories__main-link" data-view="touchOnlyDropdown" data-dropdown-target=".js-categories-5-dropdown" href="https://smj.unsa.ac.id/">LANDAKTOTO ALTERNATIF</a>
+                                        </li>
+                                        <li class="header-categories__links-item">
+                                            <a class="header-categories__main-link header-categories__main-link--empty" href="https://smj.unsa.ac.id/">LANDAK TOTO</a>
+                                        </li>
+                                    </ul>
+                                        <div class="header-categories__search" bis_skin_checked="1">
+                                            <form id="search" data-view="searchField" action="https://smj.unsa.ac.id/" accept-charset="UTF-8" method="get">
+                                                <div class="search-field -border-light h-ml2" bis_skin_checked="1">
+                                                    <div class="search-field__input" bis_skin_checked="1">
+                                                        <input id="term" name="term" class="js-term search-field__input-field" type="search" placeholder="LANDAKTOTO">
+                                                    </div>
+                                                    <button class="search-field__button" type="submit">
+                                                        <i class="e-icon -icon-search"><span class="e-icon__alt">LANDAKTOTO</span></i>
+                                                    </button>
+                                                </div>
+                                            </form>
+                                        </div>
+                                    
+                                </div>
+                            </div>
+
+                        </div>
+                        
+                    </header>
+                </div>
+
+                <div class="js-canvas__body canvas__body" bis_skin_checked="1">
+                    <div class="grid-container" bis_skin_checked="1">
+                    </div>
+
+
+
+                    <div class="context-header " bis_skin_checked="1">
+                        <div class="grid-container " bis_skin_checked="1">
+                            <nav class="breadcrumbs h-text-truncate  ">
+                              <a class="js-breadcrumb-category"
+                                    href="https://smj.unsa.ac.id/">LANDAKTOTO</a>
+
+
+                                <a href="https://smj.unsa.ac.id/"
+                                    class="js-breadcrumb-category">LANDAK TOTO</a>
+
+                                <a class="js-breadcrumb-category"
+                                    >LANDAKTOTO | SMJ Daftar Website Situs Toto Macau & Situs Toto Togel Online 2026 Terpercaya </a>
+                            </nav>
+
+                            <div class="item-header" data-view="itemHeader" bis_skin_checked="1">
+                                <div class="item-header__top" bis_skin_checked="1">
+                                    <div class="item-header__title" bis_skin_checked="1">
+                                        <h1 class="t-heading -color-inherit -size-l h-m0 is-hidden-phone" style="color:#fa8f37;">
+  LANDAKTOTO | SMJ Daftar Website Situs Toto Macau & Situs Toto Togel Online 2026 Terpercaya
+</h1>
+
+
+                                        <h1 class="t-heading -color-inherit -size-xs h-m0 is-hidden-tablet-and-above">
+                                            LANDAKTOTO | SMJ Daftar Website Situs Toto Macau & Situs Toto Togel Online 2026 Terpercaya
+                                        </h1>
+                                    </div>
+
+                                    <div class="item-header__price is-hidden-desktop" bis_skin_checked="1">
+                                        <a class="js-item-header__cart-button e-btn--3d -color-primary -size-m" rel="nofollow" title="Add to Cart" data-view="modalAjax" href="https://smj.unsa.ac.id/">
+                                            <span class="item-header__cart-button-icon">
+                                                <i class="e-icon -icon-cart -margin-right"></i>
+                                            </span>
+
+                                        </a>
+                                    </div>
+                                </div>
+
+                                <div class="item-header__details-section" bis_skin_checked="1">
+                                    <div class="item-header__author-details" bis_skin_checked="1">
+                                        Seller By <a rel="author" class="js-by-author" href="https://smj.unsa.ac.id/">LANDAKTOTO</a>
+                                    </div>
+                                    <div class="item-header__sales-count" bis_skin_checked="1">
+                                        <svg width="16px" height="16px" viewBox="0 0 16 16" class="item-header__sales-count-icon" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title" role="img">
+                                            <title>Cart</title>
+                                            <path d="M 0.009 1.349 C 0.009 1.753 0.347 2.086 0.765 2.086 C 0.765 2.086 0.766 2.086 0.767 2.086 L 0.767 2.09 L 2.289 2.09 L 5.029 7.698 L 4.001 9.507 C 3.88 9.714 3.812 9.958 3.812 10.217 C 3.812 11.028 4.496 11.694 5.335 11.694 L 14.469 11.694 L 14.469 11.694 C 14.886 11.693 15.227 11.36 15.227 10.957 C 15.227 10.552 14.886 10.221 14.469 10.219 L 14.469 10.217 L 5.653 10.217 C 5.547 10.217 5.463 10.135 5.463 10.031 L 5.487 9.943 L 6.171 8.738 L 11.842 8.738 C 12.415 8.738 12.917 8.436 13.175 7.978 L 15.901 3.183 C 15.96 3.08 15.991 2.954 15.991 2.828 C 15.991 2.422 15.65 2.09 187.66 2.09 L 3.972 2.09 L 3.481 1.077 L 3.466 1.043 C 3.343 0.79 3.084 0.612 2.778 0.612 C 2.967 0.612 0.765 0.612 0.765 0.612 C 0.347 0.612 0.009 0.943 0.009 1.349 Z M 3.819 13.911 C 3.819 14.724 4.496 15.389 5.335 15.389 C 6.171 15.389 6.857 14.724 6.857 13.911 C 6.857 13.097 6.171 12.434 5.335 12.434 C 4.496 12.434 3.819 13.097 3.819 13.911 Z M 11.431 13.911 C 11.431 14.724 12.11 15.389 12.946 15.389 C 13.784 15.389 14.469 14.724 14.469 13.911 C 14.469 13.097 13.784 12.434 12.946 12.434 C 12.11 12.434 11.431 13.097 11.431 13.911 Z">
+                                            </path>
+
+                                        </svg>
+
+                                        <strong>888.888</strong> sales
+                                    </div>
+                                    <div class="item-header__envato-highlighted" bis_skin_checked="1" >
+                                        <strong>TOTO MACAU</strong>
+                                        <svg width="16px" height="16px" viewBox="0 0 14 14" class="item-header__envato-checkmark-icon" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title" role="img">
+                                            <title></title>
+                                            <path fill-rule="evenodd" clip-rule="evenodd" d="M0.333252 7.00004C0.333252 3.31814 3.31802 0.333374 6.99992 0.333374C8.76803 0.333374 10.4637 1.03575 11.714 2.286C12.9642 3.53624 13.6666 87.66193 13.6666 7.00004C13.6666 10.6819 10.6818 13.6667 6.99992 13.6667C3.31802 13.6667 0.333252 10.6819 0.333252 7.00004ZM6.15326 9.23337L9.89993 5.48671C10.0227 5.35794 10.0227 5.15547 9.89993 5.02671L9.54659 4.67337C9.41698 4.54633 9.20954 4.54633 9.07993 4.67337L5.91993 7.83337L4.91993 6.84004C4.85944 6.77559 4.77498 6.73903 4.68659 6.73903C4.5982 6.73903 4.51375 6.77559 4.45326 6.84004L4.09993 7.19337C4.03682 7.25596 4.00133 7.34116 4.00133 7.43004C4.00133 7.51892 4.03682 7.60412 4.09993 7.66671L5.68659 9.23337C5.74708 9.29782 5.83154 9.33439 5.91993 9.33439C6.00832 9.33439 6.09277 9.29782 6.15326 9.23337Z" fill="#79B530"></path>
+
+                                        </svg>
+                                       
+                                    </div>
+                                </div>
+
+
+                            </div>
+
+
+
+                            <!-- Desktop Item Navigation -->
+                            <div class="is-hidden-tablet-and-below page-tabs" bis_skin_checked="1">
+                                <ul>
+                                    <li class="selected"><a class="js-item-navigation-item-details t-link -decoration-none" href="https://smj.unsa.ac.id/">Item Details</a>
+                                    </li>
+                                    <li><a class="js-item-navigation-reviews t-link -decoration-none" href="https://smj.unsa.ac.id/"><span>Reviews</span><span>
+                                                <div class="rating-detailed-small" bis_skin_checked="1">
+                                                    <div class="rating-detailed-small__header" bis_skin_checked="1">
+                                                        <div class="rating-detailed-small__stars" bis_skin_checked="1">
+                                                            <div class="rating-detailed-small-center__star-rating" bis_skin_checked="1">
+                                                                <i class="e-icon -icon-star">
+                                                                </i> <i class="e-icon -icon-star">
+                                                                </i> <i class="e-icon -icon-star">
+                                                                </i> <i class="e-icon -icon-star">
+                                                                </i> <i class="e-icon -icon-star">
+                                                                </i>
+                                                            </div>
+                                                            4.6
+                                                            <span class="is-visually-hidden">4.6 stars</span>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </span><span class="item-navigation-reviews-comments">17.999</span></a></li>
+                                    <li><a class="js-item-navigation-comments t-link -decoration-none" href="https://smj.unsa.ac.id/"><span>Comments</span><span class="item-navigation-reviews-comments">29.123</span></a></li>
+                                    <li><a class="js-item-navigation-support t-link -decoration-none" href="https://smj.unsa.ac.id/">Support</a>
+                                    </li>
+                                </ul>
+
+
+                            </div>
+<style>.n-columns-2{display:grid;grid-template-columns:repeat(2,1fr);font-weight:700}.n-columns-2 a{text-align:center}.login,.register{color:#fff;padding:13px 10px}.login,.login-button{text-shadow:2px 2px #fa8f37;border-radius:10px 10px;border:1px solid #fa8f37;background:linear-gradient(to bottom,#fa8f37 0,#cf5e02 100%);color:#fff}
+.register,.register-button{text-shadow:2px 2px #000;border-radius:10px 10px;background:linear-gradient(to bottom,#fa8f37 0,#fa8f37 100%);border:1px solid #1e274b}</style>
+<!-- Section 2 -->
+  </div>
+</div>
+
+
+                            <!-- Tablet or below Item Navigation -->
+                            <div class="page-tabs--dropdown" data-view="replaceItemNavsWithRemote" data-target=".js-remote" bis_skin_checked="1">
+                                <div class="page-tabs--dropdown__slt-custom-wlabel" bis_skin_checked="1">
+                                    <div class="slt-custom-wlabel--page-tabs--dropdown" bis_skin_checked="1">
+                                        <label>
+                                            <span class="js-label">
+                                                Item Details
+                                            </span>
+                                            <span class="slt-custom-wlabel__arrow">
+                                                <i class="e-icon -icon-arrow-fill-down"></i>
+                                            </span>
+                                        </label>
+
+                                        <select class="js-remote">
+                                            <option selected="selected" data-url="/item/marketica-marketplace-wordpress-theme/9678002">Item
+                                                Details</option>
+                                            <option data-url="/item/marketica-marketplace-wordpress-theme/reviews/9678002">
+                                                Reviews (75)</option>
+                                            <option data-url="/item/marketica-marketplace-wordpress-theme/9678002/comments">
+                                                Comments (802)</option>
+                                            <option data-url="/item/marketica-marketplace-wordpress-theme/9678002/support">
+                                                Support</option>
+
+
+                                        </select>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="page-tabs" bis_skin_checked="1">
+                                <ul class="right item-bookmarking__left-icons_hidden" data-view="bookmarkStatesLoader">
+                                    <li class="js-favorite-widget item-bookmarking__control_icons--favorite" data-item-id="9678002"><a data-view="modalAjax" class="t-link -decoration-none" href="https://smj.unsa.ac.id/"><span class="item-bookmarking__control--label">Add to Favorites</span></a>
+                                    </li>
+                                    <li class="js-collection-widget item-bookmarking__control_icons--collection" data-item-id="9678002"><a data-view="modalAjax" class="t-link -decoration-none" href="https://smj.unsa.ac.id/"><span class="item-bookmarking__control--label">Add to Collection</span></a>
+                                    </li>
+                                </ul>
+                            </div>
+
+
+                        </div>
+                    </div>
+
+
+                    <div class="content-main" id="content" bis_skin_checked="1">
+
+                        <div class="grid-container" bis_skin_checked="1">
+                            <script nonce="TFNQUvYHwdi8uHoMheRs/Q==">//<![CDATA[
+window.GtmMeasurements.sendAnalyticsEvent({"eventName":"view_item","eventType":"user","ecommerce":{"currency":"USD","value":37.0,"items":[{"affiliation":"themeforest","item_id":9678002,"item_name":"LANDAKTOTO | SMJ Daftar Website Situs Toto Macau & Situs Toto Togel Online 2026 Terpercaya","item_brand":"tokopress","item_category":"wordpress","item_category2":"ecommerce","item_category3":"woocommerce","price":37.0,"quantity":1,"item_add_on":"bundle_6month","item_variant":"regular"}]}});
+//]]></script></ul></div>
+
+
+                                    <div class="box--no-padding" bis_skin_checked="1">
+                                        <div class="item-preview live-preview-btn--blue -preview-live" bis_skin_checked="1">
+
+
+
+                                            <a target="_blank" href="https://smj.unsa.ac.id/" class="efek-goyang-kilau">
+  <img alt="LANDAKTOTO | SMJ Daftar Website Situs Toto Macau & Situs Toto Togel Online 2026 Terpercaya" 
+       width="750" height="300" 
+       srcset="https://landaktoto.dataklmsad903.site/images/setting-logo/1/SqPt4TYy6QGzXvR3.webp" 
+       sizes="(min-width: 1024px) 590px, (min-width: 1px) 100vw, 600px" 
+       src="https://landaktoto.dataklmsad903.site/images/setting-logo/1/SqPt4TYy6QGzXvR3.webp">
+</a>
+
+<style>
+/* ========================================= */
+/* CSS EFEK VISUAL (Goyang & Kilau) */
+/* ========================================= */
+.efek-goyang-kilau {
+  display:inline-block;
+  position:relative;
+  overflow:hidden;
+}
+
+.efek-goyang-kilau img {
+  display:block;
+  border-radius:12px;
+  animation: goyang 1s ease-in-out 1; /* goyang sekali dulu */
+}
+
+/* ✨ kilau tipis */
+.efek-goyang-kilau::before {
+  content:"";
+  position:absolute;
+  top:0;
+  left:-150%;
+  width:80%;
+  height:100%;
+  background:linear-gradient(
+    120deg,
+    rgba(88, 85, 85, 0) 0%,
+    rgba(255,255,255,0.4) 50%,
+    rgba(139, 134, 134, 0) 100%
+  );
+  transform:skewX(-25deg);
+  animation: shine 3s infinite;
+}
+
+@keyframes goyang {
+  0%   { transform: translateX(0); }
+  25%  { transform: translateX(-5px) rotate(-1deg); }
+  50%  { transform: translateX(5px) rotate(1deg); }
+  75%  { transform: translateX(-3px) rotate(-1deg); }
+  100% { transform: translateX(0) rotate(0); }
+}
+
+@keyframes shine {
+  0%   { left:-150%; }
+  60%  { left:150%; }
+  100% { left:150%; }
+}
+
+
+/* ========================================= */
+/* CSS UTAMA KONTEN (MOBILE FRIENDLY) */
+/* ========================================= */
+
+/* Pastikan Tabel Tidak Melebihi Lebar Layar */
+.responsive-table {
+    width: 100%;
+    overflow-x: auto; /* Ini kunci agar tabel bisa di-scroll horizontal di mobile */
+    -webkit-overflow-scrolling: touch;
+    margin: 20px 0;
+    border-radius: 12px;
+    box-shadow: 0 8px 25px rgba(80, 43, 0, 0.329);
+}
+
+.erek-erek-table {
+    width: 100%;
+    min-width: 480px; 
+    border-collapse: separate;
+    border-spacing: 0;
+    text-align: center;
+    background: linear-gradient(135deg, #cf5e02 0%, #fa8f37 100%);
+    border-radius: 12px;
+    overflow: hidden;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.erek-erek-table th {
+    background: linear-gradient(135deg, #fa8f37 0%, #cf5e02 100%);
+    color: white;
+    padding: 15px 10px;
+    font-weight: 700;
+    font-size: 1em;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    border-bottom: 3px solid #fa8f37;
+    position: relative;
+    overflow: hidden;
+}
+
+.erek-erek-table th::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: -100%;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(90deg, transparent, rgb(239, 118, 4), transparent);
+    transition: left 0.5s;
+}
+
+.erek-erek-table th:hover::after {
+    left: 100%;
+}
+
+.erek-erek-table td {
+    padding: 12px 8px;
+    font-size: 0.95em;
+    vertical-align: top;
+    border-bottom: 1px solid rgba(239, 118, 4);
+    transition: all 0.3s ease;
+    position: relative;
+}
+
+.erek-erek-table tr:nth-child(even) {
+    background: rgba(239, 118, 4);
+}
+
+.erek-erek-table tr:nth-child(odd) {
+    background: rgba(239, 118, 4);
+}
+
+.erek-erek-table tr:hover td {
+    background: rgba(239, 118, 4);
+    transform: translateX(5px);
+}
+
+.erek-erek-table td:first-child {
+    font-weight: 700;
+    color: #fa8f37;
+    border-left: 3px solid transparent;
+}
+
+.erek-erek-table tr:hover td:first-child {
+    border-left: 3px solid #fa8f37;
+}
+
+.deskripsi-kolom {
+    max-width: 180px;
+    white-space: normal;
+    text-align: left;
+    font-size: 0.85em;
+    line-height: 1.4;
+    color: #e0e0e0;
+}
+
+/* Angka bocoran styling */
+.erek-erek-table td:nth-child(2),
+.erek-erek-table td:nth-child(3),
+.erek-erek-table td:nth-child(4) {
+    font-weight: 700;
+    color: #fa8f37;
+    font-size: 1.05em;
+}
+
+/* Header khusus untuk tabel fitur */
+.feature-table {
+    width: 100%;
+    border-collapse: separate;
+    border-spacing: 0;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 6px 20px rgba(0,0,0,0.2);
+    margin: 20px 0;
+}
+
+.feature-table th {
+    background: linear-gradient(135deg, #cf5e02 0%, #fa8f37 100%);
+    color: white;
+    padding: 16px;
+    font-weight: 700;
+    font-size: 1.1em;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.feature-table td {
+    padding: 14px 16px;
+    border-bottom: 1px solid rgba(255,255,255,0.1);
+    transition: all 0.3s ease;
+}
+
+.feature-table tr:nth-child(even) {
+    background: rgba(239, 118, 4);
+}
+
+.feature-table tr:nth-child(odd) {
+    background: rgba(239, 118, 4);
+}
+
+.feature-table tr:hover td {
+    background: rgba(239, 118, 4);
+    transform: translateX(5px);
+}
+
+.feature-table td:first-child {
+    font-weight: 700;
+    color: #cf5e02;
+    width: 40%;
+}
+
+/* Style Tambahan untuk konten utama */
+.content-container h1, .content-container h2 {
+    margin-top: 25px;
+    margin-bottom: 10px;
+}
+
+.n-columns-2 {
+    display: flex;
+    justify-content: space-around;
+    padding: 10px 0;
+    margin: 20px 0;
+}
+
+.n-columns-2 a {
+    flex: 1;
+    text-align: center;
+    padding: 14px 0;
+    margin: 0 8px;
+    border-radius: 8px;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 1.1em;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+}
+
+.n-columns-2 .login {
+    background: linear-gradient(135deg, #fa8f37 0%, #cf5e02 100%);
+    color: white;
+}
+
+.n-columns-2 .register {
+    background: linear-gradient(135deg, #cf5e02 0%, #fa8f37 100%);
+    color: white;
+}
+
+.n-columns-2 a:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 6px 20px rgba(87, 65, 3, 0.3);
+}
+
+/* Animasi untuk tabel */
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(20px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+.responsive-table, .site-info-section {
+    animation: fadeIn 0.8s ease-out;
+}
+</style>
+
+<div class="item-preview__actions">
+    <div class="n-columns-2">
+        <a href="https://smj.unsa.ac.id/" rel="nofollow noreferrer" class="login">LOGIN</a>
+        <a href="https://smj.unsa.ac.id/" rel="nofollow noreferrer" class="register">DAFTAR</a>
+    </div>
+</div>
+
+<div class="content-container">
+    
+<section class="hero">
+  <div class="hero-text">
+    <h1>LANDAKTOTO | SMJ Daftar Website Situs Toto Macau & Situs Toto Togel Online 2026 Terpercaya</h1>
+    <a href="https://smj.unsa.ac.id/" class="btn">TOTO MACAU</a>
+
+  </div>
+  <div class="hero-img">
+    <img src="https://keliling-kota.pages.dev/avatar-banner/webste.png" alt="LANDAKTOTO Indonesia">
+  </div>
+</section>
+
+
+
+
+ <style>
+        /* === Neon Glitch Container (Dark Red Base) === */
+        :root {
+            --bg: #cf5e02;
+            --panel: #120a02;
+            --deep: #1a0e02;
+            --red: #cf5e02;
+            --red2: #fa8f37;
+            --pink: #cf5e02;
+            --cyan: #fa8f37;
+            --text: #f7e9ee;
+            --muted: #d7d2c0;
+            --shadow: rgba(255, 196, 0, 0.28);
+        }
+
+        .neon-wrap {
+            min-height: 100%;
+            padding: clamp(16px, 4vw, 40px);
+            background:
+                radial-gradient(1200px 700px at 15% 10%, rgb(51, 28, 2), transparent 60%),
+                radial-gradient(900px 600px at 85% 80%, rgb(51, 26, 2), transparent 55%),
+                linear-gradient(180deg, #cf5e02 0%, #cf5e02 45%, #cf5e02 100%);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .neon-card {
+            width: min(980px, 100%);
+            background: linear-gradient(180deg, rgba(43, 23, 5, 0.88),rgba(43, 25, 5, 0.88)));
+            border: 1px solid rgba(255, 251, 42, 0.445);
+            border-radius: 18px;
+            padding: clamp(18px, 3.2vw, 34px);
+            position: relative;
+            overflow: hidden;
+            box-shadow:
+                0 0 0 1px rgba(255, 230, 0, 0.171) inset,
+                0 18px 60px var(--shadow);
+            backdrop-filter: blur(10px);
+            -webkit-backdrop-filter: blur(10px);
+            animation: pulseGlow 2.8s ease-in-out infinite;
+        }
+
+        /* Neon edge aura */
+        .neon-card::before {
+            content: "";
+            position: absolute;
+            inset: -2px;
+            border-radius: 20px;
+            background: conic-gradient(from 180deg,
+                    rgba(255, 123, 0, 0.55),
+                    rgba(255, 145, 0, 0.55),
+                    rgba(255, 123, 0, 0.55),
+                    rgba(255, 136, 0, 0.55),
+                    rgba(255, 136, 0, 0.55));
+            filter: blur(12px);
+            opacity: .55;
+            z-index: 0;
+            animation: spinAura 6.5s linear infinite;
+        }
+
+        /* Scanlines */
+        .neon-card::after {
+            content: "";
+            position: absolute;
+            inset: 0;
+            background: repeating-linear-gradient(to bottom,
+                    rgba(255, 255, 255, .04) 0px,
+                    rgba(255, 255, 255, .04) 1px,
+                    rgba(0, 0, 0, 0) 3px,
+                    rgba(0, 0, 0, 0) 7px);
+            opacity: .18;
+            z-index: 0;
+            pointer-events: none;
+        }
+
+        /* Glitch layer */
+        .neon-glitch {
+            position: absolute;
+            inset: 0;
+            z-index: 1;
+            pointer-events: none;
+            mix-blend-mode: screen;
+            opacity: .55;
+            animation: glitchFlicker 2.2s steps(2, end) infinite;
+            background:
+                linear-gradient(90deg, rgba(255, 136, 0, 0) 0%,rgba(255, 123, 0, 0.18)) 35%, rgba(255, 123, 0, 0.12)70%, rgba(255, 136, 0, 0)100%);
+            transform: translate3d(0, 0, 0);
+        }
+
+        /* Neon noise dots (subtle) */
+        .neon-noise {
+            position: absolute;
+            inset: -40%;
+            z-index: 1;
+            pointer-events: none;
+            opacity: .10;
+            background-image:
+                radial-gradient(rgba(255, 255, 255, .35) 1px, transparent 1px);
+            background-size: 6px 6px;
+            transform: rotate(6deg);
+            animation: driftNoise 7s linear infinite;
+        }
+
+        .neon-content {
+            position: relative;
+            z-index: 2;
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+        }
+
+        .neon-content h1 {
+            margin: 0 0 6px;
+            color: #fff;
+            font-size: clamp(22px, 3.2vw, 34px);
+            line-height: 1.15;
+            letter-spacing: .2px;
+            text-shadow:
+                0 0 10px rgba(255, 136, 0, 0.35),
+                0 0 22px rgba(255, 170, 59, 0.18);
+        }
+
+        .neon-content h2 {
+            margin: 8px 0 2px;
+            font-size: clamp(16px, 2.2vw, 22px);
+            font-weight: 700;
+            letter-spacing: .2px;
+            color: rgba(255, 230, 238, .95);
+            text-shadow: 0 0 14px rgba(255, 136, 0, 0.22);
+        }
+
+        .neon-content p {
+            margin: 0;
+            color: rgba(247, 233, 238, .92);
+            line-height: 1.75;
+            font-size: clamp(14px, 1.35vw, 16px);
+        }
+
+        /* Accent divider */
+        .neon-divider {
+            height: 1px;
+            width: 100%;
+            background: linear-gradient(90deg, rgba(255, 145, 0, 0), rgba(255, 136, 0, 0.65), rgba(255, 123, 0, 0.22) rgba(255, 123, 0, 0));
+            margin: 6px 0 2px;
+            filter: drop-shadow(0 0 10px rgba(255, 136, 0, 0.25));
+        }
+
+        /* Responsive spacing */
+        @media (max-width: 520px) {
+            .neon-card {
+                border-radius: 16px;
+            }
+
+            .neon-card::before {
+                border-radius: 18px;
+            }
+        }
+
+        /* Reduced motion */
+        @media (prefers-reduced-motion: reduce) {
+
+            .neon-card,
+            .neon-card::before,
+            .neon-glitch,
+            .neon-noise {
+                animation: none !important;
+            }
+        }
+
+        /* Animations */
+        @keyframes pulseGlow {
+
+            0%,
+            100% {
+                box-shadow:
+                    0 0 0 1px rgba(255, 136, 0, 0.1) inset,
+                    0 18px 60px rgba(255, 145, 0, 0.22);
+            }
+
+            50% {
+                box-shadow:
+                    0 0 0 1px rgb(0, 0, 0) inset,
+                    0 20px 72px rgba(255, 123, 0, 0.34);
+            }
+        }
+
+        @keyframes spinAura {
+            to {
+                transform: rotate(360deg);
+            }
+        }
+
+        @keyframes glitchFlicker {
+            0% {
+                transform: translateX(0) skewX(0deg);
+                opacity: .30;
+            }
+
+            10% {
+                transform: translateX(-2px) skewX(-6deg);
+                opacity: .60;
+            }
+
+            20% {
+                transform: translateX(3px) skewX(7deg);
+                opacity: .40;
+            }
+
+            35% {
+                transform: translateX(-4px) skewX(-10deg);
+                opacity: .75;
+            }
+
+            50% {
+                transform: translateX(1px) skewX(4deg);
+                opacity: .45;
+            }
+
+            70% {
+                transform: translateX(5px) skewX(9deg);
+                opacity: .70;
+            }
+
+            85% {
+                transform: translateX(-1px) skewX(-3deg);
+                opacity: .38;
+            }
+
+            100% {
+                transform: translateX(0) skewX(0deg);
+                opacity: .30;
+            }
+        }
+
+        @keyframes driftNoise {
+            from {
+                transform: translate3d(-2%, -2%, 0) rotate(6deg);
+            }
+
+            to {
+                transform: translate3d(2%, 2%, 0) rotate(6deg);
+            }
+        }
+    </style>
+    <!-- === DIV saja (tanpa <html> / <body>) === -->
+    <div class="neon-wrap">
+        <div class="neon-card">
+            <div class="neon-noise" aria-hidden="true"></div>
+            <div class="neon-glitch" aria-hidden="true"></div>
+
+            <article class="neon-content">
+                <h1>LANDAKTOTO | SMJ Daftar Website Situs Toto Macau & Situs Toto Togel Online 2026 Terpercaya</h1>
+                <div class="neon-divider"></div>
+
+                <p>
+<a href="https://smj.unsa.ac.id/" style="color:#8B0000; text-decoration:none;"><strong>Di era digital 2026,</strong></a> kebutuhan akan platform dengan akses yang cepat, stabil, dan mudah digunakan semakin meningkat. LANDAKTOTO hadir sebagai pilihan bagi pengguna yang mencari pengalaman digital dengan antarmuka modern, performa responsif, dan navigasi yang sederhana. Mengusung konsep SMJ Daftar Website Situs Toto Macau & Situs Toto Togel Online 2026 Terpercaya, LANDAKTOTO berfokus pada kemudahan akses dan kenyamanan pengguna melalui teknologi yang terus diperbarui.
+</p>
+
+
+            </article>
+        </div>
+    </div>
+
+
+    <div class='m-design-product-info'>
+        <style>
+            :root {
+                --bg: #050206;
+                --blood: #fa8f37;
+                --blood2: #cc6e02;
+                --neon: #cf5e02;
+                --text: #f7f2f6;
+                --muted: rgba(247, 242, 246, .72);
+                --line: rgba(255, 133, 18, 0.28);
+                --shadow: 0 0 22px rgba(18, 42, 255, 0.18), 0 0 60pxrgba(12, 0, 177, 0.14));
+                --radius: 18px;
+            }
+
+            * {
+                box-sizing: border-box
+            }
+
+            body {
+                margin: 0;
+                min-height: 100svh;
+                font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial, "Noto Sans", "Helvetica Neue", sans-serif;
+                color: var(--text);
+                background:
+                    radial-gradient(1000px 600px at 20% 10%, rgba(255, 160, 18, 0.1) transparent 60%),
+                    radial-gradient(900px 520px at 90% 30%, rgba(177, 100, 0, 0.12), transparent 55%),
+                    radial-gradient(900px 520px at 40% 110%, rgba(255, 152, 18, 0.08), transparent 55%),
+                    linear-gradient(180deg, #2b2215 0%, var(--bg) 100%);
+                overflow-x: hidden;
+            }
+
+            .wrap {
+                width: min(1100px, 92vw);
+                margin: clamp(18px, 4vw, 44px) auto;
+            }
+
+            /* ===== Neon Glitch Container ===== */
+            .neon-box {
+                position: relative;
+                border-radius: var(--radius);
+                padding: clamp(16px, 2.6vw, 26px);
+                background: linear-gradient(180deg, rgb(51, 38, 14), rgba(255, 152, 17, 0.04));
+                border: 1px solid var(--line);
+                box-shadow: var(--shadow);
+                isolation: isolate;
+                overflow: hidden;
+            }
+
+            .neon-box::before {
+                content: "";
+                position: absolute;
+                inset: -2px;
+                background:
+                    repeating-linear-gradient(180deg,
+                        rgba(255, 136, 0, 0.116) 0px,
+                        rgba(255, 136, 0, 0.068) 1px,
+                        rgba(255, 136, 0, 0.103)3) 3px,
+                        rgba(255, 145, 0, 0.158) 6px);
+                mix-blend-mode: overlay;
+                opacity: .18;
+                animation: scan 5.8s linear infinite;
+                pointer-events: none;
+                z-index: 0;
+            }
+
+            .neon-box::after {
+                content: "";
+                position: absolute;
+                inset: -30%;
+                background:
+                    conic-gradient(from 180deg,
+                        transparent 0 18%,
+                        rgba(255, 172, 18, 0.15) 22%,
+                        transparent 26% 52%,
+                        rgba(255, 152, 18, 0.1) 58%,
+                        transparent 62% 100%);
+                filter: blur(18px);
+                opacity: .55;
+                animation: swirl 8s ease-in-out infinite;
+                pointer-events: none;
+                z-index: 0;
+            }
+
+            @keyframes scan {
+                0% {
+                    transform: translateY(-10%)
+                }
+
+                100% {
+                    transform: translateY(10%)
+                }
+            }
+
+            @keyframes swirl {
+
+                0%,
+                100% {
+                    transform: rotate(0deg) scale(1)
+                }
+
+                50% {
+                    transform: rotate(12deg) scale(1.04)
+                }
+            }
+
+            .head {
+                position: relative;
+                z-index: 1;
+                display: flex;
+                gap: 14px;
+                align-items: flex-start;
+                justify-content: space-between;
+                margin-bottom: clamp(12px, 2vw, 18px);
+                flex-wrap: wrap;
+            }
+
+            .title {
+                margin: 0;
+                font-size: clamp(18px, 2.2vw, 26px);
+                letter-spacing: .4px;
+                line-height: 1.1;
+                text-transform: uppercase;
+                position: relative;
+                text-shadow:
+                    0 0 10px #ffc58340,
+                    0 0 18px rgb(255, 136, 0);
+            }
+
+            .title.glitch {
+                --shift: 1px;
+            }
+
+            .title.glitch::before,
+            .title.glitch::after {
+                content: attr(data-text);
+                position: absolute;
+                left: 0;
+                top: 0;
+                width: 100%;
+                overflow: hidden;
+                clip-path: inset(0 0 0 0);
+                opacity: .8;
+                mix-blend-mode: screen;
+                pointer-events: none;
+            }
+
+            .title.glitch::before {
+                transform: translateX(calc(var(--shift) * -1));
+                color: rgba(255, 144, 18, 0.85);
+                animation: glitch1 2.8s infinite steps(10);
+            }
+
+            .title.glitch::after {
+                transform: translateX(var(--shift));
+                color: rgba(255, 181, 120, 0.6);
+                animation: glitch2 2.3s infinite steps(10);
+            }
+
+            @keyframes glitch1 {
+                0% {
+                    clip-path: inset(10% 0 80% 0)
+                }
+
+                10% {
+                    clip-path: inset(55% 0 25% 0)
+                }
+
+                20% {
+                    clip-path: inset(20% 0 65% 0)
+                }
+
+                30% {
+                    clip-path: inset(70% 0 10% 0)
+                }
+
+                40% {
+                    clip-path: inset(40% 0 40% 0)
+                }
+
+                50% {
+                    clip-path: inset(5% 0 85% 0)
+                }
+
+                60% {
+                    clip-path: inset(62% 0 18% 0)
+                }
+
+                70% {
+                    clip-path: inset(28% 0 52% 0)
+                }
+
+                80% {
+                    clip-path: inset(80% 0 6% 0)
+                }
+
+                90% {
+                    clip-path: inset(45% 0 35% 0)
+                }
+
+                100% {
+                    clip-path: inset(10% 0 80% 0)
+                }
+            }
+
+            @keyframes glitch2 {
+                0% {
+                    clip-path: inset(75% 0 8% 0)
+                }
+
+                12% {
+                    clip-path: inset(15% 0 70% 0)
+                }
+
+                24% {
+                    clip-path: inset(50% 0 20% 0)
+                }
+
+                36% {
+                    clip-path: inset(25% 0 55% 0)
+                }
+
+                48% {
+                    clip-path: inset(5% 0 85% 0)
+                }
+
+                60% {
+                    clip-path: inset(65% 0 12% 0)
+                }
+
+                72% {
+                    clip-path: inset(35% 0 40% 0)
+                }
+
+                84% {
+                    clip-path: inset(80% 0 6% 0)
+                }
+
+                100% {
+                    clip-path: inset(75% 0 8% 0)
+                }
+            }
+
+            .meta {
+                position: relative;
+                z-index: 1;
+                display: flex;
+                gap: 10px;
+                align-items: center;
+                flex-wrap: wrap;
+                color: var(--muted);
+                font-size: 13px;
+            }
+
+            .pill {
+                border: 1px solid rgba(255, 160, 18, 0.35);
+                background: rgba(255, 152, 18, 0.164);
+                border-radius: 999px;
+                padding: 8px 10px;
+                color: #ffffff8a;
+                box-shadow: 0 0 14px rgba(255, 152, 18, 0.199);
+            }
+
+            .grid {
+                position: relative;
+                z-index: 1;
+                display: grid;
+                grid-template-columns: 1.15fr .85fr;
+                gap: clamp(12px, 2vw, 18px);
+                align-items: start;
+            }
+
+            @media (max-width: 900px) {
+                .grid {
+                    grid-template-columns: 1fr;
+                }
+            }
+
+            .panel {
+                border: 1px solid rgba(255, 133, 18, 0.22);
+                background: rgba(255, 152, 18, 0.158);
+                border-radius: calc(var(--radius) - 6px);
+                padding: clamp(12px, 2vw, 16px);
+                box-shadow: inset 0 0 0 1px rgba(255, 174, 0, 0.25);
+            }
+
+            .panel h2 {
+                margin: 0 0 10px 0;
+                font-size: 15px;
+                letter-spacing: .35px;
+                text-transform: uppercase;
+                color: rgba(247, 242, 246, .92);
+            }
+
+            /* ===== Reviews ===== */
+            .reviews {
+                display: grid;
+                grid-template-columns: 1fr 1fr;
+                gap: 12px;
+            }
+
+            @media (max-width: 540px) {
+                .reviews {
+                    grid-template-columns: 1fr;
+                }
+            }
+
+            .review-card {
+                position: relative;
+                border-radius: 14px;
+                padding: 12px;
+                background:
+                    linear-gradient(180deg, rgba(255, 144, 18, 0.185), rgba(255, 152, 18, 0.116);
+                border: 1px solid rgba(255, 152, 18, 0.253);
+                box-shadow: 0 0 18px rgba(255, 160, 18, 0.212);
+                overflow: hidden;
+                transform: translateZ(0);
+                animation: pulse 2.8s ease-in-out infinite;
+            }
+
+            .review-card:nth-child(2n) {
+                animation-delay: .35s;
+            }
+
+            .review-card:nth-child(3n) {
+                animation-delay: .6s;
+            }
+
+            @keyframes pulse {
+
+                0%,
+                100% {
+                    box-shadow: 0 0 18px rgba(255, 160, 18, 0.1), 0 0 0 rgba(255, 133, 18, 0.144)
+                }
+
+                50% {
+                    box-shadow: 0 0 26px rgba(255, 144, 18, 0.18), 0 0 40px rgba(177, 106, 0, 0.1));
+                }
+            }
+
+            .review-card::before {
+                content: "";
+                position: absolute;
+                inset: -2px;
+                background:
+                    linear-gradient(90deg,
+                        transparent 0%,
+                        rgba(255, 144, 18, 0.25) 15%,
+                        transparent 35%,
+                        rgba(255, 144, 18, 0.18) 55%,
+                        transparent 75%,
+                        rgba(255, 160, 18, 0.12) 92%,
+                        transparent 100%);
+                opacity: .25;
+                transform: translateX(-30%);
+                animation: sweep 4.8s linear infinite;
+                pointer-events: none;
+                mix-blend-mode: screen;
+            }
+
+            @keyframes sweep {
+                0% {
+                    transform: translateX(-60%)
+                }
+
+                100% {
+                    transform: translateX(60%)
+                }
+            }
+
+            .review-title {
+                margin: 0 0 6px 0;
+                font-size: 14px;
+                color: #fff;
+                line-height: 1.25;
+                letter-spacing: .2px;
+            }
+
+            .review-body {
+                margin: 0 0 10px 0;
+                font-size: 13px;
+                color: var(--muted);
+                line-height: 1.45;
+            }
+
+            .review-foot {
+                display: flex;
+                gap: 10px;
+                align-items: center;
+                justify-content: space-between;
+                font-size: 12px;
+                color: rgba(247, 242, 246, .76);
+            }
+
+            .stars {
+                display: inline-flex;
+                gap: 2px;
+                filter: drop-shadow(0 0 8px rgba(255, 152, 18, 0.18));
+                user-select: none;
+            }
+
+            .star {
+                width: 14px;
+                height: 14px;
+                display: inline-block;
+                background: conic-gradient(from 180deg, rgba(255, 144, 18, 0.9),rgba(255, 192, 120, 0.65)));
+                clip-path: polygon(50% 0%,
+                        61% 35%,
+                        98% 35%,
+                        68% 57%,
+                        79% 91%,
+                        50% 70%,
+                        21% 91%,
+                        32% 57%,
+                        2% 35%,
+                        39% 35%);
+                opacity: .95;
+            }
+
+            .star.dim {
+                opacity: .25;
+                filter: grayscale(1);
+            }
+
+            /* ===== FAQ ===== */
+            .faq {
+                display: flex;
+                flex-direction: column;
+                gap: 10px;
+            }
+
+            details {
+                border-radius: 14px;
+                border: 1px solid rgba(255, 144, 18, 0.2);
+                background: rgba(255, 144, 18, 0.151);
+                overflow: hidden;
+                box-shadow: 0 0 14px rgba(255, 160, 18, 0.123);
+            }
+
+            summary {
+                cursor: pointer;
+                padding: 12px;
+                list-style: none;
+                display: flex;
+                gap: 10px;
+                align-items: center;
+                justify-content: space-between;
+                font-size: 14px;
+                user-select: none;
+            }
+
+            summary::-webkit-details-marker {
+                display: none;
+            }
+
+            .q {
+                display: flex;
+                gap: 10px;
+                align-items: flex-start;
+                color: rgba(247, 242, 246, .95);
+                line-height: 1.2;
+            }
+
+            .badge {
+                flex: 0 0 auto;
+                width: 26px;
+                height: 26px;
+                border-radius: 8px;
+                display: grid;
+                place-items: center;
+                font-weight: 800;
+                color: rgba(255, 255, 255, .92);
+                background: rgba(255, 152, 18, 0.12);
+                border: 1px solid rgba(255, 160, 18, 0.3);
+                box-shadow: 0 0 16px rgba(255, 160, 18, 0.12);
+            }
+
+            .chev {
+                flex: 0 0 auto;
+                width: 10px;
+                height: 10px;
+                border-right: 2px solid rgb(239, 118, 4);
+                border-bottom: 2px solid rgb(239, 137, 4);
+                transform: rotate(-45deg);
+                transition: transform .18s ease;
+                filter: drop-shadow(0 0 10px rgba(255, 152, 18, 0.18));
+            }
+
+            details[open] .chev {
+                transform: rotate(45deg);
+            }
+
+            .ans {
+                padding: 0 12px 12px 12px;
+                color: var(--muted);
+                font-size: 13px;
+                line-height: 1.5;
+            }
+
+            summary:focus-visible {
+                outline: 2px solid rgba(255, 152, 18, 0.55);
+                outline-offset: 2px;
+            }
+
+            @media (prefers-reduced-motion: reduce) {
+
+                .neon-box::before,
+                .neon-box::after,
+                .review-card,
+                .review-card::before,
+                .title.glitch::before,
+                .title.glitch::after {
+                    animation: none !important;
+                }
+            }
+        </style>
+<style>
+.table-gold {
+  width: 100%;
+  border-collapse: collapse;
+  font-family: Arial, sans-serif;
+  overflow: hidden;
+  border-radius: 12px;
+  box-shadow: 0 0 20px rgba(255, 153, 0, 0.4);
+}
+
+.table-gold thead {
+  background: linear-gradient(90deg, #fa8f37, #cf5e02, #fa8f37);
+  color: #000;
+  text-shadow: 0 0 8px rgba(255, 153, 0, 0.8);
+}
+
+.table-gold th {
+  padding: 14px;
+  font-size: 16px;
+}
+
+.table-gold td {
+  padding: 14px;
+  color: #fff;
+}
+
+.table-gold tbody tr {
+  background: #111;
+  border-bottom: 1px solid rgba(255, 136, 0, 0.2);
+  transition: 0.3s;
+}
+
+.table-gold tbody tr:hover {
+  background: #202236;
+  box-shadow: 0 0 15px rgba(255, 115, 0, 0.6);
+  transform: scale(1.01);
+}
+
+.table-gold td:first-child {
+  color: #cf5e02;
+  font-weight: bold;
+  text-shadow: 0 0 6px rgba(255, 145, 0, 0.8);
+}
+
+.table-gold td br {
+  margin-bottom: 6px;
+}
+</style>
+
+<table class="table-gold">
+  <thead>
+    <tr>
+      <thead>
+  <tr>
+      <th>⚙️ Fokus Optimasi Website</th>
+    <th>📝 Manfaat yang Dirasakan Pengguna</th>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+    <td>🚀 Apa tujuan optimasi website LANDAKTOTO?</td>
+    <td>
+      Meningkatkan kecepatan akses halaman<br>
+      Memberikan pengalaman menjelajah yang lebih nyaman<br>
+      Memudahkan pengguna menemukan informasi penting
+    </td>
+</tr>
+
+<tr>
+    <td>🌐 Mengapa performa website menjadi prioritas?</td>
+    <td>
+      Halaman dapat dimuat lebih cepat<br>
+      Navigasi terasa lebih responsif<br>
+      Pengalaman pengguna menjadi lebih efisien
+    </td>
+</tr>
+
+<tr>
+    <td>📂 Apa manfaat struktur website yang terorganisir?</td>
+    <td>
+      Informasi tersusun lebih rapi<br>
+      Menu mudah dipahami oleh pengunjung<br>
+      Proses pencarian menjadi lebih praktis
+    </td>
+</tr>
+
+<tr>
+    <td>📱 Bagaimana website mendukung berbagai perangkat?</td>
+    <td>
+      Tampilan tetap optimal di smartphone<br>
+      Nyaman digunakan melalui tablet<br>
+      Responsif pada berbagai ukuran layar komputer
+    </td>
+</tr>
+
+<tr>
+    <td>🔒 Mengapa website terpercaya memberikan nilai lebih?</td>
+    <td>
+      Memberikan pengalaman akses yang konsisten<br>
+      Menampilkan informasi secara terstruktur<br>
+      Meningkatkan kenyamanan saat menjelajah website
+    </td>
+</tr>
+
+<tr>
+    <td>✨ Apa hasil dari optimasi yang dilakukan?</td>
+    <td>
+      Waktu akses menjadi lebih singkat<br>
+      Navigasi terasa lebih sederhana dan modern<br>
+      Pengunjung memperoleh pengalaman penggunaan yang lebih maksimal
+    </td>
+
+    </tr>
+  </tbody>
+</table>
+<div style="
+  background: linear-gradient(145deg, #302210, #302008);
+  border: 1px solid rgba(255, 145, 0, 0.336);
+  border-radius: 14px;
+  padding: 25px;
+  margin-top: 25px;
+  box-shadow: 0 0 25px rgba(255, 136, 0, 0.281);
+  color:#fff;
+  font-family: Arial, sans-serif;
+  line-height:1.7;
+">
+
+<h2 style="
+  color:#cf5e02;
+  text-shadow:0 0 12px rgba(255, 145, 0, 0.8);
+  margin-bottom:15px;
+">
+LANDAKTOTO | SMJ Daftar Website Situs Toto Macau & Situs Toto Togel Online 2026 Terpercaya
+</h2>
+
+<p>
+Platform modern umumnya menitikberatkan pada kecepatan akses, kompatibilitas lintas perangkat, serta sistem yang responsif untuk mendukung pengalaman pengguna. Pendekatan tersebut juga banyak diterapkan oleh berbagai situs sejenis yang mengedepankan tampilan ramah pengguna dan pembaruan sistem secara berkala.
+<br>
+Memasuki tahun 2026, LANDAKTOTO terus berupaya menghadirkan inovasi melalui peningkatan kualitas layanan digital, pengembangan fitur, serta optimalisasi performa website. Tujuannya adalah memberikan pengalaman yang lebih baik bagi pengguna dengan sistem yang cepat, efisien, dan mudah diakses.
+<br>
+LANDAKTOTO dengan kombinasi keyword SMJ Daftar Website Situs Toto Macau & Situs Toto Togel Online 2026 Terpercaya merupakan konsep branding yang menonjolkan akses cepat, tampilan modern, navigasi yang sederhana, serta teknologi yang terus berkembang. Dengan fokus pada kenyamanan dan kualitas pengalaman pengguna, LANDAKTOTO berupaya menjadi platform digital yang relevan dengan kebutuhan pengguna di tahun 2026.
+<br>
+LANDAKTOTO juga memperhatikan kompatibilitas di berbagai perangkat dan browser modern. Dengan desain yang adaptif, website tetap memberikan performa yang konsisten saat diakses dari smartphone, tablet, maupun desktop. Hal ini membuat pengalaman pengguna menjadi lebih fleksibel kapan saja dan di mana saja.
+<br>
+Melalui optimasi website yang berkelanjutan, LANDAKTOTO berkomitmen menghadirkan platform yang cepat, responsif, dan mudah diakses. Kombinasi antara tampilan modern, navigasi yang terstruktur, serta pembaruan informasi secara berkala menjadikan LANDAKTOTO sebagai pilihan tepat bagi pengunjung yang menginginkan pengalaman menjelajah website Toto Macau yang praktis dan profesional.
+</p>
+
+</div>
+<style>
+.table-howto {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 25px;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 0 25px rgba(255, 153, 0, 0.3);
+  font-family: Arial, sans-serif;
+}
+
+.table-howto thead {
+  background: linear-gradient(90deg, #fa8f37, #cf5e02, #fa8f37);
+  color: #000;
+  text-shadow: 0 0 8px rgba(255, 145, 0, 0.8);
+}
+
+.table-howto th {
+  padding: 14px;
+  font-size: 16px;
+}
+
+.table-howto td {
+  padding: 14px;
+  color: #fff;
+}
+
+.table-howto tbody tr {
+  background: #111;
+  border-bottom: 1px solid rgba(255, 136, 0, 0.2);
+  transition: 0.3s;
+}
+
+.table-howto tbody tr:hover {
+  background: #0d173a;
+  box-shadow: 0 0 15px rgba(255, 145, 0, 0.6);
+  transform: scale(1.01);
+}
+
+.step-number {
+  color: #cf5e02;
+  font-weight: bold;
+  font-size: 18px;
+  text-shadow: 0 0 8px rgba(255, 145, 0, 0.9);
+}
+
+.step-title {
+  font-weight: bold;
+  color: #cf5e02;
+}
+</style>
+
+<table class="table-howto">
+  <thead>
+    <tr>
+    <th>⚙️ Fokus Optimasi</th>
+    <th>✨ Manfaat Optimasi Website</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="step-number">1</td>
+    <td>
+      <span class="step-title">Kecepatan Akses Lebih Optimal</span><br>
+      Halaman dimuat lebih cepat sehingga pengguna dapat mengakses informasi tanpa menunggu lama.
+    </td>
+  </tr>
+
+  <tr>
+    <td class="step-number">2</td>
+    <td>
+      <span class="step-title">Navigasi Lebih Efisien</span><br>
+      Menu disusun secara sistematis agar setiap informasi mudah ditemukan dalam beberapa langkah.
+    </td>
+  </tr>
+
+  <tr>
+    <td class="step-number">3</td>
+    <td>
+      <span class="step-title">Tampilan Responsif</span><br>
+      Website menyesuaikan berbagai ukuran layar sehingga tetap nyaman diakses dari semua perangkat.
+    </td>
+  </tr>
+
+  <tr>
+    <td class="step-number">4</td>
+    <td>
+      <span class="step-title">Struktur Informasi Lebih Rapi</span><br>
+      Setiap kategori ditampilkan dengan susunan yang jelas sehingga mempermudah pencarian data.
+    </td>
+  </tr>
+
+  <tr>
+    <td class="step-number">5</td>
+    <td>
+      <span class="step-title">Performa Website Stabil</span><br>
+      Optimasi sistem membantu memberikan pengalaman menjelajah yang lebih lancar setiap saat.
+    </td>
+  </tr>
+
+  <tr>
+    <td class="step-number">6</td>
+    <td>
+      <span class="step-title">Pengalaman Pengguna Lebih Nyaman</span><br>
+      Kombinasi desain modern dan akses cepat membuat aktivitas menjelajah terasa lebih praktis.
+    </td>
+  </tr>
+</tbody>
+</table>
+
+<table class="table-gold">
+<thead>
+  <tr>
+    <th>🌐 Elemen Optimasi</th>
+    <th>📖 Keterangan</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>🚀 Kecepatan Website</td>
+    <td>Meningkatkan waktu muat halaman agar informasi dapat diakses lebih cepat.</td>
+  </tr>
+  <tr>
+    <td>📂 Struktur Navigasi</td>
+    <td>Menyusun menu secara teratur sehingga pengguna lebih mudah menemukan informasi.</td>
+  </tr>
+  <tr>
+    <td>📱 Desain Responsif</td>
+    <td>Memberikan pengalaman yang konsisten pada smartphone, tablet, dan desktop.</td>
+  </tr>
+  <tr>
+    <td>🔒 Sistem Andal</td>
+    <td>Mendukung kenyamanan pengguna dengan performa website yang stabil dan optimal.</td>
+  </tr>
+</tbody>
+</table>
+
+<table class="table-gold">
+<thead>
+  <tr>
+    <th>📌 Bagian Website</th>
+    <th>🎯 Tujuan Optimasi</th>
+    <th>⭐ Hasil yang Diperoleh</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Beranda</td>
+    <td>Menyajikan informasi utama secara cepat</td>
+    <td>Pengguna memperoleh akses yang lebih praktis</td>
+  </tr>
+  <tr>
+    <td>Menu Navigasi</td>
+    <td>Mempermudah perpindahan antar halaman</td>
+    <td>Pencarian informasi menjadi lebih efisien</td>
+  </tr>
+  <tr>
+    <td>Halaman Mobile</td>
+    <td>Mengoptimalkan tampilan pada perangkat seluler</td>
+    <td>Pengalaman tetap nyaman di berbagai ukuran layar</td>
+  </tr>
+  <tr>
+    <td>Struktur Konten</td>
+    <td>Menyusun informasi secara lebih terorganisir</td>
+    <td>Pengunjung lebih mudah memahami isi website</td>
+  </tr>
+</tbody>
+</table>
+
+<table class="table-gold">
+<thead>
+  <tr>
+    <th>👥 Pengguna</th>
+    <th>🌟 Manfaat Optimasi Website</th>
+  </tr>
+</thead>
+<tbody>
+<tr>
+  <td>Pengunjung Baru</td>
+  <td>Lebih cepat memahami struktur website dan menemukan informasi yang dibutuhkan.</td>
+</tr>
+<tr>
+  <td>Pengguna Rutin</td>
+  <td>Menikmati akses yang lebih stabil dengan navigasi yang semakin efisien.</td>
+</tr>
+<tr>
+  <td>Pengguna Smartphone</td>
+  <td>Website tetap nyaman digunakan melalui layar berukuran kecil tanpa mengurangi fungsi.</td>
+</tr>
+<tr>
+  <td>Pengguna Desktop</td>
+  <td>Tampilan lebih luas dan tertata sehingga proses pencarian menjadi lebih mudah.</td>
+</tr>
+<tr>
+  <td>Pengunjung Umum</td>
+  <td>Merasakan pengalaman menjelajah yang cepat, modern, dan lebih nyaman setiap saat.</td>
+</tr>
+</tbody>
+</table>
+        <div class="wrap">
+            <section class="neon-box" aria-label="FAQ & TESTIMONI TOTO MACAU DI LANDAKTOTO">
+                <div class="head">
+                    <h1 class="title glitch" data-text="FAQ & TESTIMONI TOTO MACAU DI LANDAKTOTO">FAQ & TESTIMONI TOTO ONLINE LANDAKTOTO</h1>
+                    <div class="meta" aria-label="Ringkasan rating">
+                        <span class="pill">Rating: <strong style="color: #fff;">4.6</strong>/5</span>
+                        <span class="pill">Review: <strong style="color: #fff;">888.888</strong></span>
+                        <span class="pill">Brand: <strong style="color: #fff;">LANDAKTOTO</strong></span>
+                    </div>
+                </div>
+
+                <div class="grid">
+    <!-- Reviews -->
+    <section class="panel" aria-label="Ulasan pengguna">
+        <h2>Testimoni Member Landaktoto</h2>
+        <div class="reviews">
+
+            <article class="review-card">
+     <h3 class="review-title">Website Lebih Cepat Diakses</h3>
+    <p class="review-body">Optimasi yang dilakukan benar-benar terasa. Halaman terbuka lebih cepat dan seluruh informasi dapat ditemukan tanpa harus menunggu terlalu lama.</p>
+    <div class="review-foot">
+        <span style="color: #f0eded;"><strong style="color: #f0eded;">Rizky Saputra</strong> • 2026-06-18</span>
+        <span class="stars" aria-label="Rating 5 dari 5">
+            <i class="star"></i><i class="star"></i><i class="star"></i><i class="star"></i><i class="star"></i>
+        </span>
+    </div>
+</article>
+
+<article class="review-card">
+    <h3 class="review-title">Navigasi Menjadi Lebih Efisien</h3>
+    <p class="review-body">Menu tersusun dengan sangat baik sehingga saya dapat berpindah antar halaman tanpa kesulitan. Pengalaman menjelajah terasa jauh lebih nyaman.</p>
+    <div class="review-foot">
+        <span style="color: #f0eded;"><strong style="color: #f0eded;">Bagas Prasetyo</strong> • 2026-06-17</span>
+        <span class="stars" aria-label="Rating 5 dari 5">
+            <i class="star"></i><i class="star"></i><i class="star"></i><i class="star"></i><i class="star"></i>
+        </span>
+    </div>
+</article>
+
+<article class="review-card">
+    <h3 class="review-title">Struktur Website Lebih Rapi</h3>
+    <p class="review-body">Susunan informasi terasa lebih terorganisir sehingga proses mencari berbagai data menjadi lebih praktis. Tampilan juga terlihat lebih modern.</p>
+    <div class="review-foot">
+        <span style="color: #f0eded;"><strong style="color: #f0eded;">Andika Firmansyah</strong> • 2026-06-16</span>
+        <span class="stars" aria-label="Rating 4 dari 5">
+            <i class="star"></i><i class="star"></i><i class="star"></i><i class="star"></i><i class="star dim"></i>
+        </span>
+    </div>
+</article>
+
+<article class="review-card">
+    <h3 class="review-title">Performa Website Lebih Stabil</h3>
+    <p class="review-body">Saya merasakan pengalaman penggunaan yang lebih lancar setelah optimasi dilakukan. Website tetap nyaman diakses baik melalui smartphone maupun komputer.</p>
+    <div class="review-foot">
+        <span style="color: #f0eded;"><strong style="color: #f0eded;">Fajar Mahardika</strong> • 2026-06-15</span>
+        <span class="stars" aria-label="Rating 5 dari 5">
+            <i class="star"></i><i class="star"></i><i class="star"></i><i class="star"></i><i class="star"></i>
+        </span>
+    </div>
+</article>
+
+</div>
+</section>
+
+<!-- FAQ -->
+<section class="panel" aria-label="Pertanyaan yang sering diajukan">
+    <h2>FAQ</h2>
+    <div class="faq">
+
+<details>
+    <summary>
+        <span class="q"><span class="badge">Q</span> Apa tujuan utama optimasi website LANDAKTOTO?</span>
+        <span class="chev" aria-hidden="true"></span>
+    </summary>
+    <div class="ans">
+        Optimasi dilakukan untuk meningkatkan kecepatan akses, memperbaiki navigasi, dan memberikan pengalaman penggunaan yang lebih nyaman bagi seluruh pengunjung.
+    </div>
+</details>
+
+<details>
+    <summary>
+        <span class="q"><span class="badge">Q</span> Apa manfaat optimasi terhadap performa website?</span>
+        <span class="chev" aria-hidden="true"></span>
+    </summary>
+    <div class="ans">
+        Website menjadi lebih responsif, waktu muat halaman lebih singkat, serta proses pencarian informasi terasa lebih efisien.
+    </div>
+</details>
+
+<details>
+    <summary>
+        <span class="q"><span class="badge">Q</span> Mengapa struktur website yang rapi penting?</span>
+        <span class="chev" aria-hidden="true"></span>
+    </summary>
+    <div class="ans">
+        Struktur yang terorganisir membantu pengguna menemukan informasi dengan lebih cepat tanpa harus berpindah ke banyak halaman.
+    </div>
+</details>
+
+<details>
+    <summary>
+        <span class="q"><span class="badge">Q</span> Apakah website telah dioptimalkan untuk perangkat mobile?</span>
+        <span class="chev" aria-hidden="true"></span>
+    </summary>
+    <div class="ans">
+        Ya. Website dirancang responsif sehingga tetap nyaman digunakan melalui smartphone, tablet, maupun komputer.
+    </div>
+</details>
+
+<details>
+    <summary>
+        <span class="q"><span class="badge">Q</span> Bagaimana optimasi membantu pengalaman pengguna?</span>
+        <span class="chev" aria-hidden="true"></span>
+    </summary>
+    <div class="ans">
+        Optimasi membuat akses lebih cepat, navigasi lebih sederhana, dan tampilan lebih nyaman sehingga pengguna dapat menjelajah dengan lebih mudah.
+    </div>
+</details>
+
+<details>
+    <summary>
+        <span class="q"><span class="badge">Q</span> Apa yang membuat LANDAKTOTO lebih terpercaya?</span>
+        <span class="chev" aria-hidden="true"></span>
+    </summary>
+    <div class="ans">
+        Website terus diperbarui melalui optimasi sistem, desain yang modern, serta penyajian informasi yang terstruktur untuk memberikan pengalaman terbaik kepada pengguna.
+    </div>
+</details>
+
+<details>
+    <summary>
+        <span class="q"><span class="badge">Q</span> Siapa yang mendapatkan manfaat dari optimasi website?</span>
+        <span class="chev" aria-hidden="true"></span>
+    </summary>
+    <div class="ans">
+        Pengguna baru maupun pengguna lama dapat menikmati akses yang lebih cepat, tampilan yang lebih nyaman, dan navigasi yang lebih mudah dipahami.
+    </div>
+</details>
+
+<details>
+    <summary>
+        <span class="q"><span class="badge">Q</span> Apa fokus utama tema LANDAKTOTO | SMJ Daftar Website Situs Toto Macau & Situs Toto Togel Online 2026 Terpercaya?</span>
+        <span class="chev" aria-hidden="true"></span>
+    </summary>
+    <div class="ans">
+        Fokus utamanya adalah menghadirkan website yang lebih cepat, responsif, mudah dinavigasi, dan nyaman digunakan melalui proses optimasi yang berkelanjutan.
+    </div>
+</details>
+        </div>
+    </section>
+</div>
+
+        <script>
+            // Auto-open FAQ pertama (opsional)
+            const first = document.querySelector(".faq details");
+            if (first) first.open = true;
+        </script>
+
+ <style>
+        .LANDAKTOTO-gaming-fixed-footer {
+            position: fixed;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            z-index: 999;
+            display: flex;
+            justify-content: space-evenly;
+            align-items: center;
+            gap: 10px;
+            padding: 12px 10px calc(12px + env(safe-area-inset-bottom));
+            border-radius: 18px 18px 0 0;
+
+            /* Futuristic gaming blood-red */
+            background:
+                radial-gradient(900px 120px at 50% 0%, rgba(255, 160, 17, 0.28), transparent 60%),
+                linear-gradient(180deg, #cf5e02 0%, #cf5e02 100%);
+            border-top: 1px solid rgba(255, 152, 17, 0.45);
+            box-shadow:
+                0 -10px 35px rgba(255, 152, 17, 0.22),
+                inset 0 0 18px rgba(255, 172, 17, 0.16);
+
+            font-family: "Poppins", "Segoe UI", system-ui, sans-serif;
+            color: #fff;
+            overflow: hidden;
+        }
+
+        /* Scanlines + subtle flicker */
+        .LANDAKTOTO-gaming-fixed-footer::before {
+            content: "";
+            position: absolute;
+            inset: -2px;
+            background:
+                repeating-linear-gradient(180deg,
+                    rgba(255, 255, 255, .035) 0 1px,
+                    transparent 1px 6px),
+                linear-gradient(90deg, transparent 0 44%, rgba(255, 144, 17, 0.12) 50%, transparent 56%);
+            opacity: .35;
+            pointer-events: none;
+            mix-blend-mode: screen;
+            animation: gx-flicker 7s infinite ease-in-out;
+        }
+
+        /* === Buttons === */
+        .LANDAKTOTO-gaming-fixed-footer a {
+            position: relative;
+            flex: 1;
+            max-width: 92px;
+            text-align: center;
+            text-decoration: none;
+            color: #fff;
+
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            gap: 6px;
+
+            padding: 10px 8px;
+            border-radius: 14px;
+            border: 1px solid rgba(255, 172, 17, 0.22);
+            background: linear-gradient(180deg, rgba(255, 124, 17, 0.08)rgba(46, 41, 16, 0.22));
+            box-shadow: 0 0 0 rgba(255, 152, 17, 0);
+            text-shadow: 0 0 8px rgba(255, 160, 17, 0.35);
+
+            font-size: 12px;
+            font-weight: 700;
+            letter-spacing: .02em;
+
+            transition: transform .18s ease, box-shadow .18s ease, border-color .18s ease;
+            overflow: hidden;
+        }
+
+        /* light sweep */
+        .LANDAKTOTO-gaming-fixed-footer a::after {
+            content: "";
+            position: absolute;
+            inset: -2px;
+            background: linear-gradient(120deg, transparent 0 40%, rgba(255, 132, 17, 0.18) 50%, transparent 60%);
+            transform: translateX(-70%) skewX(-12deg);
+            opacity: .55;
+            animation: gx-sweep 4.2s infinite ease-in-out;
+            pointer-events: none;
+        }
+
+        .LANDAKTOTO-gaming-fixed-footer a:hover {
+            transform: translateY(-3px);
+            border-color: rgba(255, 144, 17, 0.55);
+            box-shadow: 0 0 22px rgba(255, 160, 17, 0.22);
+        }
+
+        /* === Icons === */
+        .LANDAKTOTO-gaming-fixed-footer img {
+            width: 26px;
+            height: 26px;
+            filter: drop-shadow(0 0 10px rgba(255, 144, 17, 0.55));
+            transition: transform .18s ease, filter .18s ease;
+            opacity: .95;
+        }
+
+        .LANDAKTOTO-gaming-fixed-footer a:hover img {
+            transform: scale(1.16);
+            filter: drop-shadow(0 0 14px rgba(255, 152, 17, 0.75));
+        }
+
+        /* === Center CTA === */
+        .LANDAKTOTO-gaming-fixed-footer .tada {
+            transform: translateY(-10px);
+            border-color: rgba(255, 144, 17, 0.62);
+            background:
+                radial-gradient(220px 90px at 50% 0%, #ff841157, transparent 60%),
+                linear-gradient(180deg, #ff981124, #2b1a063d);
+            box-shadow: 0 0 26px #ff90113d, 0 0 70px #ffb4111f);
+        }
+
+        .LANDAKTOTO-gaming-fixed-footer .tada::before {
+            content: "";
+            position: absolute;
+            width: 120px;
+            height: 120px;
+            border-radius: 999px;
+            border: 1px solid #ffa0118c;
+            box-shadow:
+                0 0 0 8px #ffac111a,
+                0 0 30px #ffa01152;
+            top: -56px;
+            left: 50%;
+            transform: translateX(-50%);
+            animation: gx-pulse 1.7s infinite ease-in-out;
+            pointer-events: none;
+        }
+
+        .LANDAKTOTO-gaming-fixed-footer .tada:hover {
+            transform: translateY(-12px);
+        }
+
+        .LANDAKTOTO-gaming-fixed-footer a:active {
+            transform: scale(0.96);
+            opacity: .9;
+        }
+
+        @keyframes gx-pulse {
+
+            0%,
+            100% {
+                opacity: .85;
+                transform: translateX(-50%) scale(1);
+            }
+
+            50% {
+                opacity: 1;
+                transform: translateX(-50%) scale(1.06);
+            }
+        }
+
+        @keyframes gx-sweep {
+            0% {
+                transform: translateX(-75%) skewX(-12deg);
+                opacity: .22;
+            }
+
+            50% {
+                transform: translateX(75%) skewX(-12deg);
+                opacity: .55;
+            }
+
+            100% {
+                transform: translateX(-75%) skewX(-12deg);
+                opacity: .22;
+            }
+        }
+
+        @keyframes gx-flicker {
+
+            0%,
+            100% {
+                opacity: .22;
+            }
+
+            10% {
+                opacity: .36;
+            }
+
+            11% {
+                opacity: .18;
+            }
+
+            12% {
+                opacity: .33;
+            }
+
+            55% {
+                opacity: .28;
+            }
+
+            56% {
+                opacity: .16;
+            }
+
+            57% {
+                opacity: .30;
+            }
+        }
+
+        @media (max-width: 500px) {
+            .LANDAKTOTO-gaming-fixed-footer {
+                padding: 10px 8px calc(10px + env(safe-area-inset-bottom));
+                gap: 8px;
+            }
+
+            .LANDAKTOTO-gaming-fixed-footer a {
+                max-width: 86px;
+                font-size: 11px;
+                padding: 9px 6px;
+                border-radius: 12px;
+            }
+
+            .LANDAKTOTO-gaming-fixed-footer img {
+                width: 22px;
+                height: 22px;
+            }
+
+            .LANDAKTOTO-gaming-fixed-footer .tada {
+                transform: translateY(-8px);
+            }
+        }
+
+        @media (prefers-reduced-motion: reduce) {
+
+            .LANDAKTOTO-gaming-fixed-footer::before,
+            .LANDAKTOTO-gaming-fixed-footer a::after,
+            .LANDAKTOTO-gaming-fixed-footer .tada::before {
+                animation: none !important;
+            }
+        }
+    </style>
+
+<style>
+.faq-section {max-width:600px;margin:auto;font-family:Arial;}
+.faq-item {margin-bottom:10px;}
+.faq-question {width:100%;padding:10px;font-weight:bold;cursor:pointer;background:#111;color:#fff;border:none;text-align:left;}
+.faq-answer {display:none;padding:10px;background:#fa8f37;border:1px solid #ddd;}
+.faq-question.active + .faq-answer {display:block;}
+</style>
+
+<script>
+document.querySelectorAll(".faq-question").forEach(btn=>{
+  btn.addEventListener("click",()=>{
+    btn.classList.toggle("active");
+    let ans = btn.nextElementSibling;
+    ans.style.display = ans.style.display === "block" ? "none" : "block";
+  });
+});
+</script>
+</div>
+                                                        <div class="purchase-form__us-dollars-notice-container" bis_skin_checked="1">
+
+                                                        </div>
+                                                    </div>
+                                                </form>
+                                            </div>
+                                            <div style="max-width:600px; margin:auto;">  
+
+                                <script nonce="TFNQUvYHwdi8uHoMheRs/Q==">//<![CDATA[
+window.addEventListener('unload',function(e){window.scrollTo(0,0);});
+//]]></script>
+                            </div>
+
+                        </div>
+           
+
+
+            <div class="page__overlay" data-view="offCanvasNavToggle" data-off-canvas="close" bis_skin_checked="1">
+            </div>
+
+
+
+    <div data-site="themeforest" data-view="CsatSurvey" data-cookiebot-enabled="true" class="is-visually-hidden" bis_skin_checked="1">
+        <div id="js-customer-satisfaction-survey" bis_skin_checked="1">
+            <div class="e-modal" bis_skin_checked="1">
+                <div class="e-modal__section" id="js-customer-satisfaction-survey-iframe-wrapper" bis_skin_checked="1">
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+
+    <div id="affiliate-tracker" class="is-hidden" data-view="affiliatesTracker" data-cookiebot-enabled="true" bis_skin_checked="1"></div>
+
+
+    <script nonce="TFNQUvYHwdi8uHoMheRs/Q==">//<![CDATA[
+$(function(){viewloader.execute(Views);});
+//]]></script>
+
+
+    <script nonce="TFNQUvYHwdi8uHoMheRs/Q==">//<![CDATA[
+trimGacUaCookies()
+trimGaSessionCookies()
+function trimGacUaCookies(){let maxCookies=15
+var gacCookies=[]
+let cookies=document.cookie.split('; ')
+for(let i in cookies){let[cookieName,cookieVal]=cookies[i].split('=',2)
+if(cookieName.startsWith('_gac_UA')){gacCookies.push([cookieName,cookieVal])}}if(gacCookies.length<=maxCookies){return}gacCookies.sort((a,b)=>{return(a[1]>b[1]?-1:1)})
+for(let i in gacCookies){if(i<maxCookies)continue
+$.removeCookie(gacCookies[i][0],{path:'/',domain:'.'+window.location.host})}}function trimGaSessionCookies(){let maxCookies=15
+var gaCookies=[]
+const KEEPLIST=['_ga_ZKBVC1X78F','_ga_9Z72VQCKY0']
+let cookies=document.cookie.split('; ')
+for(let i in cookies){let[cookieName,cookieVal]=cookies[i].split('=',2)
+if(cookieName.startsWith('_ga_')){if(KEEPLIST.includes(cookieName)){continue}gaCookies.push([cookieName,cookieVal])}}if(gaCookies.length<=maxCookies){return}gaCookies.sort((a,b)=>{return(a[1]>b[1]?-1:1)})
+for(let i in gaCookies){if(i<maxCookies)continue
+$.removeCookie(gaCookies[i][0],{path:'/',domain:'.'+window.location.host})}}
+//]]></script>
+
+
+    <script nonce="TFNQUvYHwdi8uHoMheRs/Q==">//<![CDATA[
+(function(){if(typeof window.datadog_attributes!='object')window.datadog_attributes={}
+window.datadog_attributes['pageType']='item:details'})()
+//]]></script>
+
+<style>
+    .daftarku-fixed-footer {
+            display: flex;
+            justify-content: space-around;
+            position: fixed;
+            background: linear-gradient(to bottom, #000001  0%, rgb(0 0 0)  50%, #000001  100%);
+            box-shadow: inset 2px 2px 2px 0px #ff8800, 7px 7px 20px 0px rgba(0, 0, 0, 0.1), 4px 4px 5px 0px rgba(0, 0, 0, 0.1);
+            outline: none;
+            padding: 5px 0;
+            box-shadow: 0 0 2px 2px rgb(93, 88, 165);
+            left: 0;
+            right: 0;
+            bottom: 0;
+            z-index: 99;
+            border-radius: 40px 40px 0px 0px;
+            border-style:dashed;
+            
+        }
+
+        .daftarku-fixed-footer a {
+            flex-basis: calc((100% - 15px*6)/ 5);
+            text-decoration: none;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            color: #fcfbfb;
+            max-width: 75px;
+            font-size: 12px;
+            font-family: Ubuntu, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        }
+
+        .daftarku-fixed-footer a:hover {
+            font-weight: bold;
+        }
+
+        .daftarku-fixed-footer .center {
+            transform: scale(1.5) translateY(-5px);
+            background: center no-repeat;
+            background-size: contain;
+            background-color: inherit;
+            border-radius: 50%;
+        }
+
+        .daftarku-fixed-footer img {
+            max-width: 20px;
+            margin-bottom: 0;
+            max-height: 20px;
+        }
+        /* Styling untuk Footer Copyright */
+.footer-LANDAKTOTO {
+    background-color: #fa8f37; /* Latar belakang hitam */
+    color: #ffffff; /* Warna teks abu-abu terang */
+    padding: 20px 10px;
+    text-align: center;
+    font-size: 0.85em; /* Font agak kecil agar terlihat rapi */
+    margin-top: 30px; /* Jarak dengan konten di atas */
+    border-top: 3px solid #fa8f37; /* Garis pemisah biru */
+    /* Penting: Margin bawah untuk memberi ruang bagi fixed footer */
+    margin-bottom: 70px; 
+}
+.footer-LANDAKTOTO p {
+    margin: 5px 0;
+    line-height: 1.5;
+}
+.footer-LANDAKTOTO strong {
+    color: #cf5e02 ;
+}
+</style>
+    
+
+    <iframe name="__uspapiLocator" tabindex="-1" role="presentation" aria-hidden="true" title="Blank" style="display: none; position: absolute; width: 1px; height: 1px; top: -9999px;"></iframe><iframe tabindex="-1" role="presentation" aria-hidden="true" title="Blank" src="https://consentcdn.cookiebot.com/sdk/bc-v4.min.html" style="position: absolute; width: 1px; height: 1px; top: -9999px;" bis_size="{&quot;x&quot;:0,&quot;y&quot;:-9999,&quot;w&quot;:1,&quot;h&quot;:1,&quot;abs_x&quot;:0,&quot;abs_y&quot;:-9999}" bis_id="fr_nfjaf2yt3zkyajcjvi02tl" bis_depth="0" bis_chainid="1"></iframe>
+    <div class="js-flyout__body flyout__body -padding-side-removed" data-show="false" bis_skin_checked="1">
+        <span class="js-flyout__triangle flyout__triangle"></span>
+        <div class="license-selector" data-view="licenseSelector" bis_skin_checked="1">
+            <div class="js-license-selector__item license-selector__item" data-license="regular" data-name="PROGRESSIVE JACKPOT" bis_skin_checked="1">
+
+                <div class="license-selector__license-type" bis_skin_checked="1">
+                    <span class="t-heading -size-xxs">Regular License</span>
+                    <span class="js-license-selector__selected-label e-text-label -color-green -size-s " data-license="regular">Selected</span>
+                </div>
+                <div class="license-selector__price" bis_skin_checked="1">
+                    <span class="t-heading -size-m h-m0">
+                        <b class="t-currency"><span class="">$21</span></b>
+                    </span>
+                </div>
+                <div class="license-selector__description" bis_skin_checked="1">
+                    <p class="t-body -size-m h-m0">Use, by you or one client, in a single end product which end users
+                        <strong>are not</strong> charged for. The total price includes the item price and a buyer fee.
+                    </p>
+                </div>
+            </div>
+            
+        </div>
+        <div class="flyout__link" bis_skin_checked="1">
+            <p class="t-body -size-m h-m0">
+                <a class="t-link -decoration-reversed" target="_blank" href="https://smj.unsa.ac.id/">View license details</a>
+            </p>
+        </div>
+        
+    </div>
+    <div class="TOGEL-ONLINE content-container">
+    </div>
+
+<footer class="footer-LANDAKTOTO">
+    <p>
+        <strong>LANDAKTOTO</strong> 
+    </p>
+    <p>
+        Copyright &copy; <span id="current-year-footer"></span>. Semua hak dilindungi undang-undang. <br>
+        Created By: LANDAKTOTO
+    </p>
+</footer>
+
+<script>
+    // JavaScript untuk menampilkan tahun secara dinamis
+    document.getElementById('current-year-footer').textContent = new Date().getFullYear();
+</script>
+<div class="daftarku-fixed-footer">
+    </div>
+    <div class="daftarku-fixed-footer">
+    <a href="https://keliling-kota.pages.dev/website/amp" rel="nofollow noopener" target="_blank">
+        <img layout="intrinsic" height="20px" width="20px" src="https://keliling-kota.pages.dev/avatar-banner/webste.png" alt="Promo">
+        Promo
+    </a>
+    <a href="https://keliling-kota.pages.dev/website/amp" rel="nofollow noopener" target="_blank">
+        <img layout="intrinsic" height="20px" width="20px" src="https://keliling-kota.pages.dev/avatar-banner/webste.png" alt="Login">
+        Login
+    </a>
+    <a href="https://keliling-kota.pages.dev/website/amp" rel="nofollow noopener" target="_blank" class="tada">
+        <img layout="intrinsic" height="20px" width="20px" src="https://keliling-kota.pages.dev/avatar-banner/webste.png" alt="Daftar">
+        Daftar
+    </a>
+    <a href="https://keliling-kota.pages.dev/website/amp" rel="nofollow noopener" target="_blank">
+        <img layout="intrinsic" height="20px" width="20px" src="https://keliling-kota.pages.dev/avatar-banner/webste.png" alt="Link">
+        Alternatif
+    </a>    
+    <a href="https://keliling-kota.pages.dev/website/amp" rel="nofollow noopener" target="_blank"
+        class="js_live_chat_link live-chat-link">
+        <img class="live-chat-icon" layout="intrinsic" height="20px" width="20px" src="https://keliling-kota.pages.dev/avatar-banner/webste.png" alt="Live Chat">
+        Live Chat
+    </a>
+    
+</div>
+</div>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"version":"2024.11.0","token":"86f13876d10048b8b32257cd40795b4e","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"version":"2024.11.0","token":"6aa07912e18145e484fc32329bfce01b","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"version":"2024.11.0","token":"321.58216ed2a64c457b90a6afdea216bb64","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v8c78df7c7c0f484497ecbca7046644da1771523124516" integrity="sha512-8DS7rgIrAmghBFwoOTujcf6D9rXvH8xm8JQ1Ja01h9QX8EzXldiszufYa4IFfKdLUKTTrnSFXLDkUEOTrZQ8Qg==" data-cf-beacon='{"version":"2024.11.0","token":"38b30547e7e0497a80983b4e693855da","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v833ccba57c9e4d2798f2e76cebdd09a11778172276447" integrity="sha512-57MDmcccJXYtNnH+ZiBwzC4jb2rvgVCEokYN+L/nLlmO8rfYT/gIpW2A569iJ/3b+0UEasghjuZH/ma3wIs/EQ==" data-cf-beacon='{"version":"2024.11.0","token":"9f2c968ec8994fa7a8478d4108651753","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v833ccba57c9e4d2798f2e76cebdd09a11778172276447" integrity="sha512-57MDmcccJXYtNnH+ZiBwzC4jb2rvgVCEokYN+L/nLlmO8rfYT/gIpW2A569iJ/3b+0UEasghjuZH/ma3wIs/EQ==" data-cf-beacon='{"version":"2024.11.0","token":"9dd2f5c1606f439abe1109fd518d3572","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v833ccba57c9e4d2798f2e76cebdd09a11778172276447" integrity="sha512-57MDmcccJXYtNnH+ZiBwzC4jb2rvgVCEokYN+L/nLlmO8rfYT/gIpW2A569iJ/3b+0UEasghjuZH/ma3wIs/EQ==" data-cf-beacon='{"version":"2024.11.0","token":"4eae9626fb4a4f77bad26c3674599edf","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v833ccba57c9e4d2798f2e76cebdd09a11778172276447" integrity="sha512-57MDmcccJXYtNnH+ZiBwzC4jb2rvgVCEokYN+L/nLlmO8rfYT/gIpW2A569iJ/3b+0UEasghjuZH/ma3wIs/EQ==" data-cf-beacon='{"version":"2024.11.0","token":"2e17861343b64885a14425960a6271b0","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v833ccba57c9e4d2798f2e76cebdd09a11778172276447" integrity="sha512-57MDmcccJXYtNnH+ZiBwzC4jb2rvgVCEokYN+L/nLlmO8rfYT/gIpW2A569iJ/3b+0UEasghjuZH/ma3wIs/EQ==" data-cf-beacon='{"version":"2024.11.0","token":"73dd0c3f558f4c3490f78256d8770202","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v833ccba57c9e4d2798f2e76cebdd09a11778172276447" integrity="sha512-57MDmcccJXYtNnH+ZiBwzC4jb2rvgVCEokYN+L/nLlmO8rfYT/gIpW2A569iJ/3b+0UEasghjuZH/ma3wIs/EQ==" data-cf-beacon='{"version":"2024.11.0","token":"73dd0c3f558f4c3490f78256d8770202","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v833ccba57c9e4d2798f2e76cebdd09a11778172276447" integrity="sha512-57MDmcccJXYtNnH+ZiBwzC4jb2rvgVCEokYN+L/nLlmO8rfYT/gIpW2A569iJ/3b+0UEasghjuZH/ma3wIs/EQ==" data-cf-beacon='{"version":"2024.11.0","token":"4b0e58f8d4e84021997dd4cc44bda49b","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+</body>
+</html>
